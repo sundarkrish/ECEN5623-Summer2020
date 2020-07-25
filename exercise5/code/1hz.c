@@ -1,11 +1,11 @@
 /*
  * Author: Sundar Krishnakumar
- * Brief: Raw image capture and storage in .ppm format
- *        YUV to RGB pixel format conversion
- *        Total frames : 30
+ * Brief: Raw image capture and storage in .pgm format
+ *        YUV to RGB pixel format conversion not done.Grayscale converion happens here.
+ *        Total frames : See FRAME_COUNT
           Real time image capture using SCHED_FIFO pthreads
  * Code reference : http://jwhsmith.net/2014/12/capturing-a-webcam-stream-using-v4l2/
-                    http://ecee.colorado.edu/~ecen5623/ecen/ex/Linux/computer-vision/sharpen-psf/sharpen.c
+                    
                     
  */
 
