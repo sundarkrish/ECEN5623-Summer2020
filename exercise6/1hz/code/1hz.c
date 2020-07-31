@@ -751,7 +751,7 @@ void *select_image(void *threadp)
 				printf("---------------good payload foun\n");		
 				good_cnt++;
 				if (percent_diff == (double)0.0) break;
-				if (good_cnt == 2) break;
+				if (good_cnt == 1) break;
 			}
 
 
