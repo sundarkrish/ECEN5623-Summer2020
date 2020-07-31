@@ -44,7 +44,7 @@
 #define FRAME_COUNT 601
 
 #define MSG_PRI (30) // constant priority for all messages.So FIFO order followed at reception
-#define BUFF_CNT 3
+#define BUFF_CNT 6
 
 #define NR_THREADS 1
 
