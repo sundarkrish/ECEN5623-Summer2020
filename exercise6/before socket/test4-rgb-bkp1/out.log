@@ -1,0 +1,4212 @@
+  Main thread policy is SCHED_FIFO
+  Service thread index 0 policy is SCHED_FIFO
+  Service thread index 1 policy is SCHED_FIFO
+  Service thread index 2 policy is SCHED_FIFO
+  NRT Service thread index 0 policy is SCHED_OTHER
+Image save start 0
+Number of buffers allocated: 16
+Sequencer waits on sigwait now
+  Press any key to start
+  ------Sequencer start. Time elapsed: 0.00s------
+capturing: 0
+Buffer index: 0
+Capture discarded 0
+  ------Sequencer wake up at 0.0100s------
+  ------Sequence count: 1-------
+  ------Sequencer wake up at 0.0200s------
+  ------Sequence count: 2-------
+  ------Sequencer wake up at 0.0300s------
+  ------Sequence count: 3-------
+  ------Sequencer wake up at 0.0400s------
+  ------Sequence count: 4-------
+  ------Sequencer wake up at 0.0500s------
+  ------Sequence count: 5-------
+capturing: 0
+Buffer index: 1
+Capture discarded 0
+  ------Sequencer wake up at 0.0600s------
+  ------Sequence count: 6-------
+  ------Sequencer wake up at 0.0700s------
+  ------Sequence count: 7-------
+  ------Sequencer wake up at 0.0800s------
+  ------Sequence count: 8-------
+  ------Sequencer wake up at 0.0900s------
+  ------Sequence count: 9-------
+  ------Sequencer wake up at 0.1000s------
+  ------Sequence count: 10-------
+capturing: 0
+Buffer index: 2
+Capture discarded 0
+  ------Sequencer wake up at 0.1100s------
+  ------Sequence count: 11-------
+  ------Sequencer wake up at 0.1200s------
+  ------Sequence count: 12-------
+  ------Sequencer wake up at 0.1300s------
+  ------Sequence count: 13-------
+  ------Sequencer wake up at 0.1400s------
+  ------Sequence count: 14-------
+  ------Sequencer wake up at 0.1500s------
+  ------Sequence count: 15-------
+capturing: 0
+Buffer index: 3
+Capture discarded 0
+  ------Sequencer wake up at 0.1600s------
+  ------Sequence count: 16-------
+  ------Sequencer wake up at 0.1700s------
+  ------Sequence count: 17-------
+  ------Sequencer wake up at 0.1800s------
+  ------Sequence count: 18-------
+  ------Sequencer wake up at 0.1900s------
+  ------Sequence count: 19-------
+  ------Sequencer wake up at 0.2000s------
+  ------Sequence count: 20-------
+capturing: 0
+Buffer index: 4
+Capture discarded 0
+  ------Sequencer wake up at 0.2100s------
+  ------Sequence count: 21-------
+  ------Sequencer wake up at 0.2200s------
+  ------Sequence count: 22-------
+  ------Sequencer wake up at 0.2300s------
+  ------Sequence count: 23-------
+  ------Sequencer wake up at 0.2400s------
+  ------Sequence count: 24-------
+  ------Sequencer wake up at 0.2500s------
+  ------Sequence count: 25-------
+capturing: 0
+Buffer index: 5
+Capture discarded 0
+  ------Sequencer wake up at 0.2600s------
+  ------Sequence count: 26-------
+  ------Sequencer wake up at 0.2700s------
+  ------Sequence count: 27-------
+  ------Sequencer wake up at 0.2800s------
+  ------Sequence count: 28-------
+  ------Sequencer wake up at 0.2900s------
+  ------Sequence count: 29-------
+  ------Sequencer wake up at 0.3000s------
+  ------Sequence count: 30-------
+capturing: 0
+Buffer index: 6
+Capture discarded 0
+  ------Sequencer wake up at 0.3100s------
+  ------Sequence count: 31-------
+  ------Sequencer wake up at 0.3200s------
+  ------Sequence count: 32-------
+  ------Sequencer wake up at 0.3300s------
+  ------Sequence count: 33-------
+  ------Sequencer wake up at 0.3400s------
+  ------Sequence count: 34-------
+  ------Sequencer wake up at 0.3500s------
+  ------Sequence count: 35-------
+capturing: 0
+Buffer index: 7
+Capture discarded 0
+  ------Sequencer wake up at 0.3600s------
+  ------Sequence count: 36-------
+  ------Sequencer wake up at 0.3700s------
+  ------Sequence count: 37-------
+  ------Sequencer wake up at 0.3800s------
+  ------Sequence count: 38-------
+  ------Sequencer wake up at 0.3900s------
+  ------Sequence count: 39-------
+  ------Sequencer wake up at 0.4000s------
+  ------Sequence count: 40-------
+capturing: 0
+Buffer index: 8
+Capture discarded 0
+  ------Sequencer wake up at 0.4100s------
+  ------Sequence count: 41-------
+  ------Sequencer wake up at 0.4200s------
+  ------Sequence count: 42-------
+  ------Sequencer wake up at 0.4300s------
+  ------Sequence count: 43-------
+  ------Sequencer wake up at 0.4400s------
+  ------Sequence count: 44-------
+  ------Sequencer wake up at 0.4500s------
+  ------Sequence count: 45-------
+capturing: 0
+Buffer index: 9
+Capture discarded 0
+  ------Sequencer wake up at 0.4600s------
+  ------Sequence count: 46-------
+  ------Sequencer wake up at 0.4700s------
+  ------Sequence count: 47-------
+  ------Sequencer wake up at 0.4800s------
+  ------Sequence count: 48-------
+  ------Sequencer wake up at 0.4900s------
+  ------Sequence count: 49-------
+  ------Sequencer wake up at 0.5000s------
+  ------Sequence count: 50-------
+capturing: 0
+Buffer index: 10
+Capture discarded 0
+  ------Sequencer wake up at 0.5100s------
+  ------Sequence count: 51-------
+  ------Sequencer wake up at 0.5200s------
+  ------Sequence count: 52-------
+  ------Sequencer wake up at 0.5300s------
+  ------Sequence count: 53-------
+  ------Sequencer wake up at 0.5400s------
+  ------Sequence count: 54-------
+  ------Sequencer wake up at 0.5500s------
+  ------Sequence count: 55-------
+capturing: 0
+Buffer index: 11
+Capture discarded 0
+  ------Sequencer wake up at 0.5600s------
+  ------Sequence count: 56-------
+  ------Sequencer wake up at 0.5700s------
+  ------Sequence count: 57-------
+  ------Sequencer wake up at 0.5800s------
+  ------Sequence count: 58-------
+  ------Sequencer wake up at 0.5900s------
+  ------Sequence count: 59-------
+  ------Sequencer wake up at 0.6000s------
+  ------Sequence count: 60-------
+capturing: 0
+Buffer index: 12
+Capture discarded 0
+  ------Sequencer wake up at 0.6100s------
+  ------Sequence count: 61-------
+  ------Sequencer wake up at 0.6200s------
+  ------Sequence count: 62-------
+  ------Sequencer wake up at 0.6300s------
+  ------Sequence count: 63-------
+  ------Sequencer wake up at 0.6400s------
+  ------Sequence count: 64-------
+  ------Sequencer wake up at 0.6500s------
+  ------Sequence count: 65-------
+capturing: 0
+Buffer index: 13
+Capture discarded 0
+  ------Sequencer wake up at 0.6600s------
+  ------Sequence count: 66-------
+  ------Sequencer wake up at 0.6700s------
+  ------Sequence count: 67-------
+  ------Sequencer wake up at 0.6800s------
+  ------Sequence count: 68-------
+  ------Sequencer wake up at 0.6900s------
+  ------Sequence count: 69-------
+  ------Sequencer wake up at 0.7000s------
+  ------Sequence count: 70-------
+capturing: 0
+Buffer index: 14
+Capture discarded 0
+  ------Sequencer wake up at 0.7100s------
+  ------Sequence count: 71-------
+  ------Sequencer wake up at 0.7200s------
+  ------Sequence count: 72-------
+  ------Sequencer wake up at 0.7300s------
+  ------Sequence count: 73-------
+  ------Sequencer wake up at 0.7400s------
+  ------Sequence count: 74-------
+  ------Sequencer wake up at 0.7500s------
+  ------Sequence count: 75-------
+capturing: 0
+Buffer index: 15
+Capture discarded 0
+  ------Sequencer wake up at 0.7600s------
+  ------Sequence count: 76-------
+  ------Sequencer wake up at 0.7700s------
+  ------Sequence count: 77-------
+  ------Sequencer wake up at 0.7800s------
+  ------Sequence count: 78-------
+  ------Sequencer wake up at 0.7900s------
+  ------Sequence count: 79-------
+  ------Sequencer wake up at 0.8000s------
+  ------Sequence count: 80-------
+capturing: 0
+Buffer index: 0
+Capture discarded 0
+  ------Sequencer wake up at 0.8100s------
+  ------Sequence count: 81-------
+  ------Sequencer wake up at 0.8200s------
+  ------Sequence count: 82-------
+  ------Sequencer wake up at 0.8300s------
+  ------Sequence count: 83-------
+  ------Sequencer wake up at 0.8400s------
+  ------Sequence count: 84-------
+  ------Sequencer wake up at 0.8500s------
+  ------Sequence count: 85-------
+capturing: 0
+Buffer index: 1
+Capture discarded 0
+  ------Sequencer wake up at 0.8600s------
+  ------Sequence count: 86-------
+  ------Sequencer wake up at 0.8700s------
+  ------Sequence count: 87-------
+  ------Sequencer wake up at 0.8800s------
+  ------Sequence count: 88-------
+  ------Sequencer wake up at 0.8900s------
+  ------Sequence count: 89-------
+  ------Sequencer wake up at 0.9000s------
+  ------Sequence count: 90-------
+capturing: 0
+Buffer index: 2
+Capture discarded 0
+  ------Sequencer wake up at 0.9100s------
+  ------Sequence count: 91-------
+  ------Sequencer wake up at 0.9200s------
+  ------Sequence count: 92-------
+  ------Sequencer wake up at 0.9300s------
+  ------Sequence count: 93-------
+  ------Sequencer wake up at 0.9400s------
+  ------Sequence count: 94-------
+  ------Sequencer wake up at 0.9500s------
+  ------Sequence count: 95-------
+capturing: 0
+Buffer index: 3
+Capture discarded 0
+  ------Sequencer wake up at 0.9600s------
+  ------Sequence count: 96-------
+  ------Sequencer wake up at 0.9700s------
+  ------Sequence count: 97-------
+  ------Sequencer wake up at 0.9800s------
+  ------Sequence count: 98-------
+  ------Sequencer wake up at 0.9900s------
+  ------Sequence count: 99-------
+  ------Sequencer wake up at 1.0000s------
+  ------Sequence count: 100-------
+capturing: 0
+Buffer index: 4
+capture  complete : 0
+send  start : 0
+payload index: 0
+send  complete : 0
+  ------Sequencer wake up at 1.0100s------
+  ------Sequence count: 101-------
+  ------Sequencer wake up at 1.0200s------
+  ------Sequence count: 102-------
+  ------Sequencer wake up at 1.0300s------
+  ------Sequence count: 103-------
+  ------Sequencer wake up at 1.0400s------
+  ------Sequence count: 104-------
+  ------Sequencer wake up at 1.0500s------
+  ------Sequence count: 105-------
+capturing: 1
+Buffer index: 5
+capture  complete : 1
+send  start : 1
+payload index: 1
+send  complete : 1
+  ------Sequencer wake up at 1.0600s------
+  ------Sequence count: 106-------
+--------------------p diff : 0.12207031250000000
+--------------------set no: 0 -----  set no match(frm): 0
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 0
+Image save start 1
+  ------Sequencer wake up at 1.0700s------
+  ------Sequence count: 107-------
+  ------Sequencer wake up at 1.0800s------
+  ------Sequence count: 108-------
+  ------Sequencer wake up at 1.0900s------
+  ------Sequence count: 109-------
+  ------Sequencer wake up at 1.1000s------
+  ------Sequence count: 110-------
+capturing: 2
+Buffer index: 6
+capture  complete : 2
+send  start : 2
+payload index: 2
+send  complete : 2
+  ------Sequencer wake up at 1.1100s------
+  ------Sequence count: 111-------
+  ------Sequencer wake up at 1.1200s------
+  ------Sequence count: 112-------
+  ------Sequencer wake up at 1.1300s------
+  ------Sequence count: 113-------
+  ------Sequencer wake up at 1.1400s------
+  ------Sequence count: 114-------
+  ------Sequencer wake up at 1.1500s------
+  ------Sequence count: 115-------
+capturing: 3
+Buffer index: 7
+capture  complete : 3
+send  start : 3
+payload index: 3
+send  complete : 3
+  ------Sequencer wake up at 1.1600s------
+  ------Sequence count: 116-------
+--------------------p diff : 0.14290364583333334
+--------------------set no: 0 -----  set no match(frm): 1
+--------------------good frame count: 0
+  ------Sequencer wake up at 1.1700s------
+  ------Sequence count: 117-------
+  ------Sequencer wake up at 1.1800s------
+  ------Sequence count: 118-------
+  ------Sequencer wake up at 1.1900s------
+  ------Sequence count: 119-------
+  ------Sequencer wake up at 1.2000s------
+  ------Sequence count: 120-------
+capturing: 4
+Buffer index: 8
+capture  complete : 4
+send  start : 4
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 4
+send  complete : 4
+  ------Sequencer wake up at 1.2100s------
+  ------Sequence count: 121-------
+--------------------p diff : 0.24218750000000000
+--------------------set no: 1 -----  set no match(frm): 1
+--------------------good frame count: 0
+  ------Sequencer wake up at 1.2200s------
+  ------Sequence count: 122-------
+  ------Sequencer wake up at 1.2300s------
+  ------Sequence count: 123-------
+  ------Sequencer wake up at 1.2400s------
+  ------Sequence count: 124-------
+  ------Sequencer wake up at 1.2500s------
+  ------Sequence count: 125-------
+capturing: 5
+Buffer index: 9
+capture  complete : 5
+send  start : 5
+payload index: 5
+send  complete : 5
+  ------Sequencer wake up at 1.2600s------
+  ------Sequence count: 126-------
+--------------------p diff : 0.09830729166666666
+--------------------set no: 1 -----  set no match(frm): 1
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 1
+Image save start 2
+  ------Sequencer wake up at 1.2700s------
+  ------Sequence count: 127-------
+  ------Sequencer wake up at 1.2800s------
+  ------Sequence count: 128-------
+  ------Sequencer wake up at 1.2900s------
+  ------Sequence count: 129-------
+  ------Sequencer wake up at 1.3000s------
+  ------Sequence count: 130-------
+capturing: 6
+Buffer index: 10
+capture  complete : 6
+send  start : 6
+payload index: 6
+send  complete : 6
+  ------Sequencer wake up at 1.3100s------
+  ------Sequence count: 131-------
+  ------Sequencer wake up at 1.3200s------
+  ------Sequence count: 132-------
+  ------Sequencer wake up at 1.3300s------
+  ------Sequence count: 133-------
+  ------Sequencer wake up at 1.3400s------
+  ------Sequence count: 134-------
+  ------Sequencer wake up at 1.3500s------
+  ------Sequence count: 135-------
+capturing: 7
+Buffer index: 11
+capture  complete : 7
+send  start : 7
+payload index: 7
+send  complete : 7
+  ------Sequencer wake up at 1.3600s------
+  ------Sequence count: 136-------
+--------------------p diff : 0.10319010416666666
+--------------------set no: 1 -----  set no match(frm): 2
+--------------------good frame count: 0
+  ------Sequencer wake up at 1.3700s------
+  ------Sequence count: 137-------
+  ------Sequencer wake up at 1.3800s------
+  ------Sequence count: 138-------
+  ------Sequencer wake up at 1.3900s------
+  ------Sequence count: 139-------
+  ------Sequencer wake up at 1.4000s------
+  ------Sequence count: 140-------
+capturing: 8
+Buffer index: 12
+capture  complete : 8
+send  start : 8
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 8
+send  complete : 8
+  ------Sequencer wake up at 1.4100s------
+  ------Sequence count: 141-------
+--------------------p diff : 0.21126302083333334
+--------------------set no: 2 -----  set no match(frm): 2
+--------------------good frame count: 0
+  ------Sequencer wake up at 1.4200s------
+  ------Sequence count: 142-------
+  ------Sequencer wake up at 1.4300s------
+  ------Sequence count: 143-------
+  ------Sequencer wake up at 1.4400s------
+  ------Sequence count: 144-------
+  ------Sequencer wake up at 1.4500s------
+  ------Sequence count: 145-------
+capturing: 9
+Buffer index: 13
+capture  complete : 9
+send  start : 9
+payload index: 9
+send  complete : 9
+  ------Sequencer wake up at 1.4600s------
+  ------Sequence count: 146-------
+--------------------p diff : 0.21907552083333331
+--------------------set no: 2 -----  set no match(frm): 2
+--------------------good frame count: 0
+  ------Sequencer wake up at 1.4700s------
+  ------Sequence count: 147-------
+  ------Sequencer wake up at 1.4800s------
+  ------Sequence count: 148-------
+  ------Sequencer wake up at 1.4900s------
+  ------Sequence count: 149-------
+  ------Sequencer wake up at 1.5000s------
+  ------Sequence count: 150-------
+capturing: 10
+Buffer index: 14
+capture  complete : 10
+send  start : 10
+payload index: 10
+send  complete : 10
+  ------Sequencer wake up at 1.5100s------
+  ------Sequence count: 151-------
+--------------------p diff : 0.25358072916666669
+--------------------set no: 2 -----  set no match(frm): 2
+--------------------good frame count: 0
+  ------Sequencer wake up at 1.5200s------
+  ------Sequence count: 152-------
+  ------Sequencer wake up at 1.5300s------
+  ------Sequence count: 153-------
+  ------Sequencer wake up at 1.5400s------
+  ------Sequence count: 154-------
+  ------Sequencer wake up at 1.5500s------
+  ------Sequence count: 155-------
+capturing: 11
+Buffer index: 15
+capture  complete : 11
+send  start : 11
+payload index: 11
+send  complete : 11
+  ------Sequencer wake up at 1.5600s------
+  ------Sequence count: 156-------
+--------------------p diff : 0.14388020833333334
+--------------------set no: 2 -----  set no match(frm): 2
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 2
+Image save start 3
+  ------Sequencer wake up at 1.5700s------
+  ------Sequence count: 157-------
+  ------Sequencer wake up at 1.5800s------
+  ------Sequence count: 158-------
+  ------Sequencer wake up at 1.5900s------
+  ------Sequence count: 159-------
+  ------Sequencer wake up at 1.6000s------
+  ------Sequence count: 160-------
+capturing: 12
+Buffer index: 0
+capture  complete : 12
+send  start : 12
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 12
+send  complete : 12
+  ------Sequencer wake up at 1.6100s------
+  ------Sequence count: 161-------
+  ------Sequencer wake up at 1.6200s------
+  ------Sequence count: 162-------
+  ------Sequencer wake up at 1.6300s------
+  ------Sequence count: 163-------
+  ------Sequencer wake up at 1.6400s------
+  ------Sequence count: 164-------
+  ------Sequencer wake up at 1.6500s------
+  ------Sequence count: 165-------
+capturing: 13
+Buffer index: 1
+capture  complete : 13
+send  start : 13
+payload index: 13
+send  complete : 13
+  ------Sequencer wake up at 1.6600s------
+  ------Sequence count: 166-------
+--------------------p diff : 0.12792968750000000
+--------------------set no: 3 -----  set no match(frm): 3
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 3
+Image save start 4
+  ------Sequencer wake up at 1.6700s------
+  ------Sequence count: 167-------
+  ------Sequencer wake up at 1.6800s------
+  ------Sequence count: 168-------
+  ------Sequencer wake up at 1.6900s------
+  ------Sequence count: 169-------
+  ------Sequencer wake up at 1.7000s------
+  ------Sequence count: 170-------
+capturing: 14
+Buffer index: 2
+capture  complete : 14
+send  start : 14
+payload index: 14
+send  complete : 14
+  ------Sequencer wake up at 1.7100s------
+  ------Sequence count: 171-------
+  ------Sequencer wake up at 1.7200s------
+  ------Sequence count: 172-------
+  ------Sequencer wake up at 1.7300s------
+  ------Sequence count: 173-------
+  ------Sequencer wake up at 1.7400s------
+  ------Sequence count: 174-------
+  ------Sequencer wake up at 1.7500s------
+  ------Sequence count: 175-------
+capturing: 15
+Buffer index: 3
+capture  complete : 15
+send  start : 15
+payload index: 15
+send  complete : 15
+  ------Sequencer wake up at 1.7600s------
+  ------Sequence count: 176-------
+--------------------p diff : 0.09830729166666666
+--------------------set no: 3 -----  set no match(frm): 4
+--------------------good frame count: 0
+  ------Sequencer wake up at 1.7700s------
+  ------Sequence count: 177-------
+  ------Sequencer wake up at 1.7800s------
+  ------Sequence count: 178-------
+  ------Sequencer wake up at 1.7900s------
+  ------Sequence count: 179-------
+  ------Sequencer wake up at 1.8000s------
+  ------Sequence count: 180-------
+capturing: 16
+Buffer index: 4
+capture  complete : 16
+send  start : 16
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 16
+send  complete : 16
+  ------Sequencer wake up at 1.8100s------
+  ------Sequence count: 181-------
+--------------------p diff : 0.16048177083333334
+--------------------set no: 4 -----  set no match(frm): 4
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 4
+Image save start 5
+  ------Sequencer wake up at 1.8200s------
+  ------Sequence count: 182-------
+  ------Sequencer wake up at 1.8300s------
+  ------Sequence count: 183-------
+  ------Sequencer wake up at 1.8400s------
+  ------Sequence count: 184-------
+  ------Sequencer wake up at 1.8500s------
+  ------Sequence count: 185-------
+capturing: 17
+Buffer index: 5
+capture  complete : 17
+send  start : 17
+payload index: 17
+send  complete : 17
+  ------Sequencer wake up at 1.8600s------
+  ------Sequence count: 186-------
+  ------Sequencer wake up at 1.8700s------
+  ------Sequence count: 187-------
+  ------Sequencer wake up at 1.8800s------
+  ------Sequence count: 188-------
+  ------Sequencer wake up at 1.8900s------
+  ------Sequence count: 189-------
+  ------Sequencer wake up at 1.9000s------
+  ------Sequence count: 190-------
+capturing: 18
+Buffer index: 6
+capture  complete : 18
+send  start : 18
+payload index: 18
+send  complete : 18
+  ------Sequencer wake up at 1.9100s------
+  ------Sequence count: 191-------
+--------------------p diff : 0.16764322916666666
+--------------------set no: 4 -----  set no match(frm): 5
+--------------------good frame count: 0
+  ------Sequencer wake up at 1.9200s------
+  ------Sequence count: 192-------
+  ------Sequencer wake up at 1.9300s------
+  ------Sequence count: 193-------
+  ------Sequencer wake up at 1.9400s------
+  ------Sequence count: 194-------
+  ------Sequencer wake up at 1.9500s------
+  ------Sequence count: 195-------
+capturing: 19
+Buffer index: 7
+capture  complete : 19
+send  start : 19
+payload index: 19
+send  complete : 19
+  ------Sequencer wake up at 1.9600s------
+  ------Sequence count: 196-------
+--------------------p diff : 0.12011718750000000
+--------------------set no: 4 -----  set no match(frm): 5
+--------------------good frame count: 0
+  ------Sequencer wake up at 1.9700s------
+  ------Sequence count: 197-------
+  ------Sequencer wake up at 1.9800s------
+  ------Sequence count: 198-------
+  ------Sequencer wake up at 1.9900s------
+  ------Sequence count: 199-------
+  ------Sequencer wake up at 2.0000s------
+  ------Sequence count: 200-------
+capturing: 20
+Buffer index: 8
+capture  complete : 20
+send  start : 20
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 20
+send  complete : 20
+  ------Sequencer wake up at 2.0100s------
+  ------Sequence count: 201-------
+--------------------p diff : 0.20442708333333331
+--------------------set no: 5 -----  set no match(frm): 5
+--------------------good frame count: 0
+  ------Sequencer wake up at 2.0200s------
+  ------Sequence count: 202-------
+  ------Sequencer wake up at 2.0300s------
+  ------Sequence count: 203-------
+  ------Sequencer wake up at 2.0400s------
+  ------Sequence count: 204-------
+  ------Sequencer wake up at 2.0500s------
+  ------Sequence count: 205-------
+capturing: 21
+Buffer index: 9
+capture  complete : 21
+send  start : 21
+payload index: 21
+send  complete : 21
+  ------Sequencer wake up at 2.0600s------
+  ------Sequence count: 206-------
+--------------------p diff : 0.12076822916666666
+--------------------set no: 5 -----  set no match(frm): 5
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 5
+Image save start 6
+  ------Sequencer wake up at 2.0700s------
+  ------Sequence count: 207-------
+  ------Sequencer wake up at 2.0800s------
+  ------Sequence count: 208-------
+  ------Sequencer wake up at 2.0900s------
+  ------Sequence count: 209-------
+  ------Sequencer wake up at 2.1000s------
+  ------Sequence count: 210-------
+capturing: 22
+Buffer index: 10
+capture  complete : 22
+send  start : 22
+payload index: 22
+send  complete : 22
+  ------Sequencer wake up at 2.1100s------
+  ------Sequence count: 211-------
+  ------Sequencer wake up at 2.1200s------
+  ------Sequence count: 212-------
+  ------Sequencer wake up at 2.1300s------
+  ------Sequence count: 213-------
+  ------Sequencer wake up at 2.1400s------
+  ------Sequence count: 214-------
+  ------Sequencer wake up at 2.1500s------
+  ------Sequence count: 215-------
+capturing: 23
+Buffer index: 11
+capture  complete : 23
+send  start : 23
+payload index: 23
+send  complete : 23
+  ------Sequencer wake up at 2.1600s------
+  ------Sequence count: 216-------
+--------------------p diff : 0.10351562500000000
+--------------------set no: 5 -----  set no match(frm): 6
+--------------------good frame count: 0
+  ------Sequencer wake up at 2.1700s------
+  ------Sequence count: 217-------
+  ------Sequencer wake up at 2.1800s------
+  ------Sequence count: 218-------
+  ------Sequencer wake up at 2.1900s------
+  ------Sequence count: 219-------
+  ------Sequencer wake up at 2.2000s------
+  ------Sequence count: 220-------
+capturing: 24
+Buffer index: 12
+capture  complete : 24
+send  start : 24
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 24
+send  complete : 24
+  ------Sequencer wake up at 2.2100s------
+  ------Sequence count: 221-------
+--------------------p diff : 0.19173177083333334
+--------------------set no: 6 -----  set no match(frm): 6
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 6
+Image save start 7
+  ------Sequencer wake up at 2.2200s------
+  ------Sequence count: 222-------
+  ------Sequencer wake up at 2.2300s------
+  ------Sequence count: 223-------
+  ------Sequencer wake up at 2.2400s------
+  ------Sequence count: 224-------
+  ------Sequencer wake up at 2.2500s------
+  ------Sequence count: 225-------
+capturing: 25
+Buffer index: 13
+capture  complete : 25
+send  start : 25
+payload index: 25
+send  complete : 25
+  ------Sequencer wake up at 2.2600s------
+  ------Sequence count: 226-------
+  ------Sequencer wake up at 2.2700s------
+  ------Sequence count: 227-------
+  ------Sequencer wake up at 2.2800s------
+  ------Sequence count: 228-------
+  ------Sequencer wake up at 2.2900s------
+  ------Sequence count: 229-------
+  ------Sequencer wake up at 2.3000s------
+  ------Sequence count: 230-------
+capturing: 26
+Buffer index: 14
+capture  complete : 26
+send  start : 26
+payload index: 26
+send  complete : 26
+  ------Sequencer wake up at 2.3100s------
+  ------Sequence count: 231-------
+--------------------p diff : 0.09016927083333333
+--------------------set no: 6 -----  set no match(frm): 7
+--------------------good frame count: 0
+  ------Sequencer wake up at 2.3200s------
+  ------Sequence count: 232-------
+  ------Sequencer wake up at 2.3300s------
+  ------Sequence count: 233-------
+  ------Sequencer wake up at 2.3400s------
+  ------Sequence count: 234-------
+  ------Sequencer wake up at 2.3500s------
+  ------Sequence count: 235-------
+capturing: 27
+Buffer index: 15
+capture  complete : 27
+send  start : 27
+payload index: 27
+send  complete : 27
+  ------Sequencer wake up at 2.3600s------
+  ------Sequence count: 236-------
+--------------------p diff : 0.13183593750000000
+--------------------set no: 6 -----  set no match(frm): 7
+--------------------good frame count: 0
+  ------Sequencer wake up at 2.3700s------
+  ------Sequence count: 237-------
+  ------Sequencer wake up at 2.3800s------
+  ------Sequence count: 238-------
+  ------Sequencer wake up at 2.3900s------
+  ------Sequence count: 239-------
+  ------Sequencer wake up at 2.4000s------
+  ------Sequence count: 240-------
+capturing: 28
+Buffer index: 0
+capture  complete : 28
+send  start : 28
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 28
+send  complete : 28
+  ------Sequencer wake up at 2.4100s------
+  ------Sequence count: 241-------
+--------------------p diff : 0.25195312500000000
+--------------------set no: 7 -----  set no match(frm): 7
+--------------------good frame count: 0
+  ------Sequencer wake up at 2.4200s------
+  ------Sequence count: 242-------
+  ------Sequencer wake up at 2.4300s------
+  ------Sequence count: 243-------
+  ------Sequencer wake up at 2.4400s------
+  ------Sequence count: 244-------
+  ------Sequencer wake up at 2.4500s------
+  ------Sequence count: 245-------
+capturing: 29
+Buffer index: 1
+capture  complete : 29
+send  start : 29
+payload index: 29
+send  complete : 29
+  ------Sequencer wake up at 2.4600s------
+  ------Sequence count: 246-------
+--------------------p diff : 0.17838541666666666
+--------------------set no: 7 -----  set no match(frm): 7
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 7
+Image save start 8
+  ------Sequencer wake up at 2.4700s------
+  ------Sequence count: 247-------
+  ------Sequencer wake up at 2.4800s------
+  ------Sequence count: 248-------
+  ------Sequencer wake up at 2.4900s------
+  ------Sequence count: 249-------
+  ------Sequencer wake up at 2.5000s------
+  ------Sequence count: 250-------
+capturing: 30
+Buffer index: 2
+capture  complete : 30
+send  start : 30
+payload index: 30
+send  complete : 30
+  ------Sequencer wake up at 2.5100s------
+  ------Sequence count: 251-------
+  ------Sequencer wake up at 2.5200s------
+  ------Sequence count: 252-------
+  ------Sequencer wake up at 2.5300s------
+  ------Sequence count: 253-------
+  ------Sequencer wake up at 2.5400s------
+  ------Sequence count: 254-------
+  ------Sequencer wake up at 2.5500s------
+  ------Sequence count: 255-------
+capturing: 31
+Buffer index: 3
+capture  complete : 31
+send  start : 31
+payload index: 31
+send  complete : 31
+  ------Sequencer wake up at 2.5600s------
+  ------Sequence count: 256-------
+--------------------p diff : 0.09798177083333334
+--------------------set no: 7 -----  set no match(frm): 8
+--------------------good frame count: 0
+  ------Sequencer wake up at 2.5700s------
+  ------Sequence count: 257-------
+  ------Sequencer wake up at 2.5800s------
+  ------Sequence count: 258-------
+  ------Sequencer wake up at 2.5900s------
+  ------Sequence count: 259-------
+  ------Sequencer wake up at 2.6000s------
+  ------Sequence count: 260-------
+capturing: 32
+Buffer index: 4
+capture  complete : 32
+send  start : 32
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 32
+send  complete : 32
+  ------Sequencer wake up at 2.6100s------
+  ------Sequence count: 261-------
+--------------------p diff : 0.14615885416666666
+--------------------set no: 8 -----  set no match(frm): 8
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 8
+Image save start 9
+  ------Sequencer wake up at 2.6200s------
+  ------Sequence count: 262-------
+  ------Sequencer wake up at 2.6300s------
+  ------Sequence count: 263-------
+  ------Sequencer wake up at 2.6400s------
+  ------Sequence count: 264-------
+  ------Sequencer wake up at 2.6500s------
+  ------Sequence count: 265-------
+capturing: 33
+Buffer index: 5
+capture  complete : 33
+send  start : 33
+payload index: 33
+send  complete : 33
+  ------Sequencer wake up at 2.6600s------
+  ------Sequence count: 266-------
+  ------Sequencer wake up at 2.6700s------
+  ------Sequence count: 267-------
+  ------Sequencer wake up at 2.6800s------
+  ------Sequence count: 268-------
+  ------Sequencer wake up at 2.6900s------
+  ------Sequence count: 269-------
+  ------Sequencer wake up at 2.7000s------
+  ------Sequence count: 270-------
+capturing: 34
+Buffer index: 6
+capture  complete : 34
+send  start : 34
+payload index: 34
+send  complete : 34
+  ------Sequencer wake up at 2.7100s------
+  ------Sequence count: 271-------
+--------------------p diff : 0.31119791666666663
+--------------------set no: 8 -----  set no match(frm): 9
+--------------------good frame count: 0
+  ------Sequencer wake up at 2.7200s------
+  ------Sequence count: 272-------
+  ------Sequencer wake up at 2.7300s------
+  ------Sequence count: 273-------
+  ------Sequencer wake up at 2.7400s------
+  ------Sequence count: 274-------
+  ------Sequencer wake up at 2.7500s------
+  ------Sequence count: 275-------
+capturing: 35
+Buffer index: 7
+capture  complete : 35
+send  start : 35
+payload index: 35
+send  complete : 35
+  ------Sequencer wake up at 2.7600s------
+  ------Sequence count: 276-------
+--------------------p diff : 0.21549479166666666
+--------------------set no: 8 -----  set no match(frm): 9
+--------------------good frame count: 0
+  ------Sequencer wake up at 2.7700s------
+  ------Sequence count: 277-------
+  ------Sequencer wake up at 2.7800s------
+  ------Sequence count: 278-------
+  ------Sequencer wake up at 2.7900s------
+  ------Sequence count: 279-------
+  ------Sequencer wake up at 2.8000s------
+  ------Sequence count: 280-------
+capturing: 36
+Buffer index: 8
+capture  complete : 36
+send  start : 36
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 36
+send  complete : 36
+  ------Sequencer wake up at 2.8100s------
+  ------Sequence count: 281-------
+--------------------p diff : 0.24609375000000000
+--------------------set no: 9 -----  set no match(frm): 9
+--------------------good frame count: 0
+  ------Sequencer wake up at 2.8200s------
+  ------Sequence count: 282-------
+  ------Sequencer wake up at 2.8300s------
+  ------Sequence count: 283-------
+  ------Sequencer wake up at 2.8400s------
+  ------Sequence count: 284-------
+  ------Sequencer wake up at 2.8500s------
+  ------Sequence count: 285-------
+capturing: 37
+Buffer index: 9
+capture  complete : 37
+send  start : 37
+payload index: 37
+send  complete : 37
+  ------Sequencer wake up at 2.8600s------
+  ------Sequence count: 286-------
+  ------Sequencer wake up at 2.8700s------
+  ------Sequence count: 287-------
+--------------------p diff : 0.11197916666666667
+--------------------set no: 9 -----  set no match(frm): 9
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 9
+Image save start 10
+  ------Sequencer wake up at 2.8800s------
+  ------Sequence count: 288-------
+  ------Sequencer wake up at 2.8900s------
+  ------Sequence count: 289-------
+  ------Sequencer wake up at 2.9000s------
+  ------Sequence count: 290-------
+capturing: 38
+Buffer index: 10
+capture  complete : 38
+send  start : 38
+payload index: 38
+send  complete : 38
+  ------Sequencer wake up at 2.9100s------
+  ------Sequence count: 291-------
+  ------Sequencer wake up at 2.9200s------
+  ------Sequence count: 292-------
+  ------Sequencer wake up at 2.9300s------
+  ------Sequence count: 293-------
+  ------Sequencer wake up at 2.9400s------
+  ------Sequence count: 294-------
+  ------Sequencer wake up at 2.9500s------
+  ------Sequence count: 295-------
+capturing: 39
+Buffer index: 11
+capture  complete : 39
+send  start : 39
+payload index: 39
+send  complete : 39
+  ------Sequencer wake up at 2.9600s------
+  ------Sequence count: 296-------
+--------------------p diff : 0.11588541666666667
+--------------------set no: 9 -----  set no match(frm): 10
+--------------------good frame count: 0
+  ------Sequencer wake up at 2.9700s------
+  ------Sequence count: 297-------
+  ------Sequencer wake up at 2.9800s------
+  ------Sequence count: 298-------
+  ------Sequencer wake up at 2.9901s------
+  ------Sequence count: 299-------
+  ------Sequencer wake up at 3.0000s------
+  ------Sequence count: 300-------
+capturing: 40
+Buffer index: 12
+capture  complete : 40
+send  start : 40
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 40
+send  complete : 40
+  ------Sequencer wake up at 3.0100s------
+  ------Sequence count: 301-------
+--------------------p diff : 0.14746093750000000
+--------------------set no: 10 -----  set no match(frm): 10
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 10
+Image save start 11
+  ------Sequencer wake up at 3.0200s------
+  ------Sequence count: 302-------
+  ------Sequencer wake up at 3.0300s------
+  ------Sequence count: 303-------
+  ------Sequencer wake up at 3.0400s------
+  ------Sequence count: 304-------
+  ------Sequencer wake up at 3.0500s------
+  ------Sequence count: 305-------
+capturing: 41
+Buffer index: 13
+capture  complete : 41
+send  start : 41
+payload index: 41
+send  complete : 41
+  ------Sequencer wake up at 3.0600s------
+  ------Sequence count: 306-------
+  ------Sequencer wake up at 3.0700s------
+  ------Sequence count: 307-------
+  ------Sequencer wake up at 3.0800s------
+  ------Sequence count: 308-------
+  ------Sequencer wake up at 3.0900s------
+  ------Sequence count: 309-------
+  ------Sequencer wake up at 3.1000s------
+  ------Sequence count: 310-------
+capturing: 42
+Buffer index: 14
+capture  complete : 42
+send  start : 42
+payload index: 42
+send  complete : 42
+  ------Sequencer wake up at 3.1100s------
+  ------Sequence count: 311-------
+--------------------p diff : 0.22558593750000000
+--------------------set no: 10 -----  set no match(frm): 11
+--------------------good frame count: 0
+  ------Sequencer wake up at 3.1200s------
+  ------Sequence count: 312-------
+  ------Sequencer wake up at 3.1300s------
+  ------Sequence count: 313-------
+  ------Sequencer wake up at 3.1400s------
+  ------Sequence count: 314-------
+  ------Sequencer wake up at 3.1500s------
+  ------Sequence count: 315-------
+capturing: 43
+Buffer index: 15
+capture  complete : 43
+send  start : 43
+payload index: 43
+send  complete : 43
+  ------Sequencer wake up at 3.1600s------
+  ------Sequence count: 316-------
+--------------------p diff : 0.12434895833333334
+--------------------set no: 10 -----  set no match(frm): 11
+--------------------good frame count: 0
+  ------Sequencer wake up at 3.1700s------
+  ------Sequence count: 317-------
+  ------Sequencer wake up at 3.1800s------
+  ------Sequence count: 318-------
+  ------Sequencer wake up at 3.1900s------
+  ------Sequence count: 319-------
+  ------Sequencer wake up at 3.2000s------
+  ------Sequence count: 320-------
+capturing: 44
+Buffer index: 0
+capture  complete : 44
+send  start : 44
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 44
+send  complete : 44
+  ------Sequencer wake up at 3.2100s------
+  ------Sequence count: 321-------
+--------------------p diff : 0.23860677083333334
+--------------------set no: 11 -----  set no match(frm): 11
+--------------------good frame count: 0
+  ------Sequencer wake up at 3.2200s------
+  ------Sequence count: 322-------
+  ------Sequencer wake up at 3.2300s------
+  ------Sequence count: 323-------
+  ------Sequencer wake up at 3.2400s------
+  ------Sequence count: 324-------
+  ------Sequencer wake up at 3.2500s------
+  ------Sequence count: 325-------
+capturing: 45
+Buffer index: 1
+capture  complete : 45
+send  start : 45
+payload index: 45
+send  complete : 45
+  ------Sequencer wake up at 3.2600s------
+  ------Sequence count: 326-------
+--------------------p diff : 0.13020833333333331
+--------------------set no: 11 -----  set no match(frm): 11
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 11
+Image save start 12
+  ------Sequencer wake up at 3.2700s------
+  ------Sequence count: 327-------
+  ------Sequencer wake up at 3.2800s------
+  ------Sequence count: 328-------
+  ------Sequencer wake up at 3.2900s------
+  ------Sequence count: 329-------
+  ------Sequencer wake up at 3.3000s------
+  ------Sequence count: 330-------
+capturing: 46
+Buffer index: 2
+capture  complete : 46
+send  start : 46
+payload index: 46
+send  complete : 46
+  ------Sequencer wake up at 3.3100s------
+  ------Sequence count: 331-------
+  ------Sequencer wake up at 3.3200s------
+  ------Sequence count: 332-------
+  ------Sequencer wake up at 3.3300s------
+  ------Sequence count: 333-------
+  ------Sequencer wake up at 3.3400s------
+  ------Sequence count: 334-------
+  ------Sequencer wake up at 3.3500s------
+  ------Sequence count: 335-------
+capturing: 47
+Buffer index: 3
+capture  complete : 47
+send  start : 47
+payload index: 47
+send  complete : 47
+  ------Sequencer wake up at 3.3600s------
+  ------Sequence count: 336-------
+--------------------p diff : 0.12500000000000000
+--------------------set no: 11 -----  set no match(frm): 12
+--------------------good frame count: 0
+  ------Sequencer wake up at 3.3700s------
+  ------Sequence count: 337-------
+  ------Sequencer wake up at 3.3800s------
+  ------Sequence count: 338-------
+  ------Sequencer wake up at 3.3900s------
+  ------Sequence count: 339-------
+  ------Sequencer wake up at 3.4000s------
+  ------Sequence count: 340-------
+capturing: 48
+Buffer index: 4
+capture  complete : 48
+send  start : 48
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 48
+send  complete : 48
+  ------Sequencer wake up at 3.4100s------
+  ------Sequence count: 341-------
+  ------Sequencer wake up at 3.4200s------
+  ------Sequence count: 342-------
+--------------------p diff : 0.23632812500000000
+--------------------set no: 12 -----  set no match(frm): 12
+--------------------good frame count: 0
+  ------Sequencer wake up at 3.4300s------
+  ------Sequence count: 343-------
+  ------Sequencer wake up at 3.4400s------
+  ------Sequence count: 344-------
+  ------Sequencer wake up at 3.4500s------
+  ------Sequence count: 345-------
+capturing: 49
+Buffer index: 5
+capture  complete : 49
+send  start : 49
+payload index: 49
+send  complete : 49
+  ------Sequencer wake up at 3.4600s------
+  ------Sequence count: 346-------
+--------------------p diff : 0.11783854166666667
+--------------------set no: 12 -----  set no match(frm): 12
+--------------------good frame count: 0
+---------------good payload foun
+  ------Sequencer wake up at 3.4700s------
+  ------Sequence count: 347-------
+Image save complete 12
+Image save start 13
+  ------Sequencer wake up at 3.4800s------
+  ------Sequence count: 348-------
+  ------Sequencer wake up at 3.4900s------
+  ------Sequence count: 349-------
+  ------Sequencer wake up at 3.5000s------
+  ------Sequence count: 350-------
+capturing: 50
+Buffer index: 6
+capture  complete : 50
+send  start : 50
+payload index: 0
+send  complete : 50
+  ------Sequencer wake up at 3.5100s------
+  ------Sequence count: 351-------
+  ------Sequencer wake up at 3.5200s------
+  ------Sequence count: 352-------
+  ------Sequencer wake up at 3.5300s------
+  ------Sequence count: 353-------
+  ------Sequencer wake up at 3.5400s------
+  ------Sequence count: 354-------
+  ------Sequencer wake up at 3.5500s------
+  ------Sequence count: 355-------
+capturing: 51
+Buffer index: 7
+capture  complete : 51
+send  start : 51
+payload index: 1
+send  complete : 51
+  ------Sequencer wake up at 3.5600s------
+  ------Sequence count: 356-------
+--------------------p diff : 0.12532552083333334
+--------------------set no: 12 -----  set no match(frm): 13
+--------------------good frame count: 0
+  ------Sequencer wake up at 3.5700s------
+  ------Sequence count: 357-------
+  ------Sequencer wake up at 3.5800s------
+  ------Sequence count: 358-------
+  ------Sequencer wake up at 3.5900s------
+  ------Sequence count: 359-------
+  ------Sequencer wake up at 3.6000s------
+  ------Sequence count: 360-------
+capturing: 52
+Buffer index: 8
+capture  complete : 52
+send  start : 52
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 2
+send  complete : 52
+  ------Sequencer wake up at 3.6100s------
+  ------Sequence count: 361-------
+--------------------p diff : 0.19661458333333331
+--------------------set no: 13 -----  set no match(frm): 13
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 13
+Image save start 14
+  ------Sequencer wake up at 3.6200s------
+  ------Sequence count: 362-------
+  ------Sequencer wake up at 3.6300s------
+  ------Sequence count: 363-------
+  ------Sequencer wake up at 3.6400s------
+  ------Sequence count: 364-------
+  ------Sequencer wake up at 3.6500s------
+  ------Sequence count: 365-------
+capturing: 53
+Buffer index: 9
+capture  complete : 53
+send  start : 53
+payload index: 3
+send  complete : 53
+  ------Sequencer wake up at 3.6600s------
+  ------Sequence count: 366-------
+  ------Sequencer wake up at 3.6700s------
+  ------Sequence count: 367-------
+  ------Sequencer wake up at 3.6800s------
+  ------Sequence count: 368-------
+  ------Sequencer wake up at 3.6900s------
+  ------Sequence count: 369-------
+  ------Sequencer wake up at 3.7000s------
+  ------Sequence count: 370-------
+capturing: 54
+Buffer index: 10
+capture  complete : 54
+send  start : 54
+payload index: 4
+send  complete : 54
+  ------Sequencer wake up at 3.7101s------
+  ------Sequence count: 371-------
+--------------------p diff : 0.57454427083333337
+--------------------set no: 13 -----  set no match(frm): 14
+--------------------good frame count: 0
+  ------Sequencer wake up at 3.7200s------
+  ------Sequence count: 372-------
+  ------Sequencer wake up at 3.7300s------
+  ------Sequence count: 373-------
+  ------Sequencer wake up at 3.7400s------
+  ------Sequence count: 374-------
+  ------Sequencer wake up at 3.7500s------
+  ------Sequence count: 375-------
+capturing: 55
+Buffer index: 11
+capture  complete : 55
+send  start : 55
+payload index: 5
+send  complete : 55
+  ------Sequencer wake up at 3.7600s------
+  ------Sequence count: 376-------
+--------------------p diff : 0.10677083333333333
+--------------------set no: 13 -----  set no match(frm): 14
+--------------------good frame count: 0
+  ------Sequencer wake up at 3.7700s------
+  ------Sequence count: 377-------
+  ------Sequencer wake up at 3.7800s------
+  ------Sequence count: 378-------
+  ------Sequencer wake up at 3.7900s------
+  ------Sequence count: 379-------
+  ------Sequencer wake up at 3.8000s------
+  ------Sequence count: 380-------
+capturing: 56
+Buffer index: 12
+capture  complete : 56
+send  start : 56
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 6
+send  complete : 56
+  ------Sequencer wake up at 3.8100s------
+  ------Sequence count: 381-------
+--------------------p diff : 0.25227864583333337
+--------------------set no: 14 -----  set no match(frm): 14
+--------------------good frame count: 0
+  ------Sequencer wake up at 3.8200s------
+  ------Sequence count: 382-------
+  ------Sequencer wake up at 3.8300s------
+  ------Sequence count: 383-------
+  ------Sequencer wake up at 3.8400s------
+  ------Sequence count: 384-------
+  ------Sequencer wake up at 3.8500s------
+  ------Sequence count: 385-------
+capturing: 57
+Buffer index: 13
+capture  complete : 57
+send  start : 57
+payload index: 7
+send  complete : 57
+  ------Sequencer wake up at 3.8600s------
+  ------Sequence count: 386-------
+--------------------p diff : 0.11458333333333333
+--------------------set no: 14 -----  set no match(frm): 14
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 14
+Image save start 15
+  ------Sequencer wake up at 3.8700s------
+  ------Sequence count: 387-------
+  ------Sequencer wake up at 3.8800s------
+  ------Sequence count: 388-------
+  ------Sequencer wake up at 3.8900s------
+  ------Sequence count: 389-------
+  ------Sequencer wake up at 3.9000s------
+  ------Sequence count: 390-------
+capturing: 58
+Buffer index: 14
+capture  complete : 58
+send  start : 58
+payload index: 8
+send  complete : 58
+  ------Sequencer wake up at 3.9100s------
+  ------Sequence count: 391-------
+  ------Sequencer wake up at 3.9200s------
+  ------Sequence count: 392-------
+  ------Sequencer wake up at 3.9300s------
+  ------Sequence count: 393-------
+  ------Sequencer wake up at 3.9400s------
+  ------Sequence count: 394-------
+  ------Sequencer wake up at 3.9500s------
+  ------Sequence count: 395-------
+capturing: 59
+Buffer index: 15
+capture  complete : 59
+send  start : 59
+payload index: 9
+send  complete : 59
+  ------Sequencer wake up at 3.9600s------
+  ------Sequence count: 396-------
+--------------------p diff : 0.12304687500000000
+--------------------set no: 14 -----  set no match(frm): 15
+--------------------good frame count: 0
+  ------Sequencer wake up at 3.9700s------
+  ------Sequence count: 397-------
+  ------Sequencer wake up at 3.9800s------
+  ------Sequence count: 398-------
+  ------Sequencer wake up at 3.9900s------
+  ------Sequence count: 399-------
+  ------Sequencer wake up at 4.0000s------
+  ------Sequence count: 400-------
+capturing: 60
+Buffer index: 0
+capture  complete : 60
+send  start : 60
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 10
+send  complete : 60
+  ------Sequencer wake up at 4.0100s------
+  ------Sequence count: 401-------
+--------------------p diff : 0.08040364583333334
+--------------------set no: 15 -----  set no match(frm): 15
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 15
+Image save start 16
+  ------Sequencer wake up at 4.0200s------
+  ------Sequence count: 402-------
+  ------Sequencer wake up at 4.0300s------
+  ------Sequence count: 403-------
+  ------Sequencer wake up at 4.0400s------
+  ------Sequence count: 404-------
+  ------Sequencer wake up at 4.0500s------
+  ------Sequence count: 405-------
+capturing: 61
+Buffer index: 1
+capture  complete : 61
+send  start : 61
+payload index: 11
+send  complete : 61
+  ------Sequencer wake up at 4.0600s------
+  ------Sequence count: 406-------
+  ------Sequencer wake up at 4.0700s------
+  ------Sequence count: 407-------
+  ------Sequencer wake up at 4.0800s------
+  ------Sequence count: 408-------
+  ------Sequencer wake up at 4.0900s------
+  ------Sequence count: 409-------
+  ------Sequencer wake up at 4.1000s------
+  ------Sequence count: 410-------
+capturing: 62
+Buffer index: 2
+capture  complete : 62
+send  start : 62
+payload index: 12
+send  complete : 62
+  ------Sequencer wake up at 4.1100s------
+  ------Sequence count: 411-------
+--------------------p diff : 0.25358072916666669
+--------------------set no: 15 -----  set no match(frm): 16
+--------------------good frame count: 0
+  ------Sequencer wake up at 4.1200s------
+  ------Sequence count: 412-------
+  ------Sequencer wake up at 4.1300s------
+  ------Sequence count: 413-------
+  ------Sequencer wake up at 4.1400s------
+  ------Sequence count: 414-------
+  ------Sequencer wake up at 4.1500s------
+  ------Sequence count: 415-------
+capturing: 63
+Buffer index: 3
+capture  complete : 63
+send  start : 63
+payload index: 13
+send  complete : 63
+  ------Sequencer wake up at 4.1600s------
+  ------Sequence count: 416-------
+--------------------p diff : 0.11816406250000000
+--------------------set no: 15 -----  set no match(frm): 16
+--------------------good frame count: 0
+  ------Sequencer wake up at 4.1700s------
+  ------Sequence count: 417-------
+  ------Sequencer wake up at 4.1800s------
+  ------Sequence count: 418-------
+  ------Sequencer wake up at 4.1900s------
+  ------Sequence count: 419-------
+  ------Sequencer wake up at 4.2000s------
+  ------Sequence count: 420-------
+capturing: 64
+Buffer index: 4
+capture  complete : 64
+send  start : 64
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 14
+send  complete : 64
+  ------Sequencer wake up at 4.2100s------
+  ------Sequence count: 421-------
+--------------------p diff : 0.24088541666666669
+--------------------set no: 16 -----  set no match(frm): 16
+--------------------good frame count: 0
+  ------Sequencer wake up at 4.2200s------
+  ------Sequence count: 422-------
+  ------Sequencer wake up at 4.2300s------
+  ------Sequence count: 423-------
+  ------Sequencer wake up at 4.2400s------
+  ------Sequence count: 424-------
+  ------Sequencer wake up at 4.2500s------
+  ------Sequence count: 425-------
+capturing: 65
+Buffer index: 5
+capture  complete : 65
+send  start : 65
+payload index: 15
+send  complete : 65
+  ------Sequencer wake up at 4.2600s------
+  ------Sequence count: 426-------
+--------------------p diff : 0.08756510416666666
+--------------------set no: 16 -----  set no match(frm): 16
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 16
+Image save start 17
+  ------Sequencer wake up at 4.2701s------
+  ------Sequence count: 427-------
+  ------Sequencer wake up at 4.2800s------
+  ------Sequence count: 428-------
+  ------Sequencer wake up at 4.2900s------
+  ------Sequence count: 429-------
+  ------Sequencer wake up at 4.3000s------
+  ------Sequence count: 430-------
+capturing: 66
+Buffer index: 6
+capture  complete : 66
+send  start : 66
+payload index: 16
+send  complete : 66
+  ------Sequencer wake up at 4.3100s------
+  ------Sequence count: 431-------
+  ------Sequencer wake up at 4.3200s------
+  ------Sequence count: 432-------
+  ------Sequencer wake up at 4.3300s------
+  ------Sequence count: 433-------
+  ------Sequencer wake up at 4.3400s------
+  ------Sequence count: 434-------
+  ------Sequencer wake up at 4.3500s------
+  ------Sequence count: 435-------
+capturing: 67
+Buffer index: 7
+capture  complete : 67
+send  start : 67
+payload index: 17
+send  complete : 67
+  ------Sequencer wake up at 4.3600s------
+  ------Sequence count: 436-------
+--------------------p diff : 0.12109375000000000
+--------------------set no: 16 -----  set no match(frm): 17
+--------------------good frame count: 0
+  ------Sequencer wake up at 4.3700s------
+  ------Sequence count: 437-------
+  ------Sequencer wake up at 4.3800s------
+  ------Sequence count: 438-------
+  ------Sequencer wake up at 4.3900s------
+  ------Sequence count: 439-------
+  ------Sequencer wake up at 4.4000s------
+  ------Sequence count: 440-------
+capturing: 68
+Buffer index: 8
+capture  complete : 68
+send  start : 68
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 18
+send  complete : 68
+  ------Sequencer wake up at 4.4100s------
+  ------Sequence count: 441-------
+--------------------p diff : 0.21516927083333331
+--------------------set no: 17 -----  set no match(frm): 17
+--------------------good frame count: 0
+  ------Sequencer wake up at 4.4200s------
+  ------Sequence count: 442-------
+  ------Sequencer wake up at 4.4300s------
+  ------Sequence count: 443-------
+  ------Sequencer wake up at 4.4400s------
+  ------Sequence count: 444-------
+  ------Sequencer wake up at 4.4500s------
+  ------Sequence count: 445-------
+capturing: 69
+Buffer index: 9
+capture  complete : 69
+send  start : 69
+payload index: 19
+send  complete : 69
+  ------Sequencer wake up at 4.4600s------
+  ------Sequence count: 446-------
+--------------------p diff : 0.12369791666666666
+--------------------set no: 17 -----  set no match(frm): 17
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 17
+Image save start 18
+  ------Sequencer wake up at 4.4700s------
+  ------Sequence count: 447-------
+  ------Sequencer wake up at 4.4800s------
+  ------Sequence count: 448-------
+  ------Sequencer wake up at 4.4900s------
+  ------Sequence count: 449-------
+  ------Sequencer wake up at 4.5000s------
+  ------Sequence count: 450-------
+capturing: 70
+Buffer index: 10
+capture  complete : 70
+send  start : 70
+payload index: 20
+send  complete : 70
+  ------Sequencer wake up at 4.5100s------
+  ------Sequence count: 451-------
+  ------Sequencer wake up at 4.5200s------
+  ------Sequence count: 452-------
+  ------Sequencer wake up at 4.5300s------
+  ------Sequence count: 453-------
+  ------Sequencer wake up at 4.5400s------
+  ------Sequence count: 454-------
+  ------Sequencer wake up at 4.5500s------
+  ------Sequence count: 455-------
+capturing: 71
+Buffer index: 11
+capture  complete : 71
+send  start : 71
+payload index: 21
+send  complete : 71
+  ------Sequencer wake up at 4.5600s------
+  ------Sequence count: 456-------
+--------------------p diff : 0.12207031250000000
+--------------------set no: 17 -----  set no match(frm): 18
+--------------------good frame count: 0
+  ------Sequencer wake up at 4.5700s------
+  ------Sequence count: 457-------
+  ------Sequencer wake up at 4.5800s------
+  ------Sequence count: 458-------
+  ------Sequencer wake up at 4.5900s------
+  ------Sequence count: 459-------
+  ------Sequencer wake up at 4.6000s------
+  ------Sequence count: 460-------
+capturing: 72
+Buffer index: 12
+capture  complete : 72
+send  start : 72
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 22
+send  complete : 72
+  ------Sequencer wake up at 4.6100s------
+  ------Sequence count: 461-------
+--------------------p diff : 0.20084635416666666
+--------------------set no: 18 -----  set no match(frm): 18
+--------------------good frame count: 0
+  ------Sequencer wake up at 4.6200s------
+  ------Sequence count: 462-------
+  ------Sequencer wake up at 4.6300s------
+  ------Sequence count: 463-------
+  ------Sequencer wake up at 4.6400s------
+  ------Sequence count: 464-------
+  ------Sequencer wake up at 4.6500s------
+  ------Sequence count: 465-------
+capturing: 73
+Buffer index: 13
+capture  complete : 73
+send  start : 73
+payload index: 23
+send  complete : 73
+  ------Sequencer wake up at 4.6600s------
+  ------Sequence count: 466-------
+--------------------p diff : 0.09375000000000000
+--------------------set no: 18 -----  set no match(frm): 18
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 18
+Image save start 19
+  ------Sequencer wake up at 4.6700s------
+  ------Sequence count: 467-------
+  ------Sequencer wake up at 4.6800s------
+  ------Sequence count: 468-------
+  ------Sequencer wake up at 4.6900s------
+  ------Sequence count: 469-------
+  ------Sequencer wake up at 4.7000s------
+  ------Sequence count: 470-------
+capturing: 74
+Buffer index: 14
+capture  complete : 74
+send  start : 74
+payload index: 24
+send  complete : 74
+  ------Sequencer wake up at 4.7100s------
+  ------Sequence count: 471-------
+  ------Sequencer wake up at 4.7200s------
+  ------Sequence count: 472-------
+  ------Sequencer wake up at 4.7300s------
+  ------Sequence count: 473-------
+  ------Sequencer wake up at 4.7400s------
+  ------Sequence count: 474-------
+  ------Sequencer wake up at 4.7500s------
+  ------Sequence count: 475-------
+capturing: 75
+Buffer index: 15
+capture  complete : 75
+send  start : 75
+payload index: 25
+send  complete : 75
+  ------Sequencer wake up at 4.7600s------
+  ------Sequence count: 476-------
+--------------------p diff : 0.12662760416666666
+--------------------set no: 18 -----  set no match(frm): 19
+--------------------good frame count: 0
+  ------Sequencer wake up at 4.7700s------
+  ------Sequence count: 477-------
+  ------Sequencer wake up at 4.7800s------
+  ------Sequence count: 478-------
+  ------Sequencer wake up at 4.7900s------
+  ------Sequence count: 479-------
+  ------Sequencer wake up at 4.8000s------
+  ------Sequence count: 480-------
+capturing: 76
+Buffer index: 0
+capture  complete : 76
+send  start : 76
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 26
+send  complete : 76
+  ------Sequencer wake up at 4.8100s------
+  ------Sequence count: 481-------
+--------------------p diff : 0.21451822916666669
+--------------------set no: 19 -----  set no match(frm): 19
+--------------------good frame count: 0
+  ------Sequencer wake up at 4.8200s------
+  ------Sequence count: 482-------
+  ------Sequencer wake up at 4.8300s------
+  ------Sequence count: 483-------
+  ------Sequencer wake up at 4.8400s------
+  ------Sequence count: 484-------
+  ------Sequencer wake up at 4.8500s------
+  ------Sequence count: 485-------
+capturing: 77
+Buffer index: 1
+capture  complete : 77
+send  start : 77
+payload index: 27
+send  complete : 77
+  ------Sequencer wake up at 4.8600s------
+  ------Sequence count: 486-------
+--------------------p diff : 0.11718750000000000
+--------------------set no: 19 -----  set no match(frm): 19
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 19
+Image save start 20
+  ------Sequencer wake up at 4.8700s------
+  ------Sequence count: 487-------
+  ------Sequencer wake up at 4.8800s------
+  ------Sequence count: 488-------
+  ------Sequencer wake up at 4.8900s------
+  ------Sequence count: 489-------
+  ------Sequencer wake up at 4.9000s------
+  ------Sequence count: 490-------
+capturing: 78
+Buffer index: 2
+capture  complete : 78
+send  start : 78
+payload index: 28
+send  complete : 78
+  ------Sequencer wake up at 4.9100s------
+  ------Sequence count: 491-------
+  ------Sequencer wake up at 4.9200s------
+  ------Sequence count: 492-------
+  ------Sequencer wake up at 4.9300s------
+  ------Sequence count: 493-------
+  ------Sequencer wake up at 4.9400s------
+  ------Sequence count: 494-------
+  ------Sequencer wake up at 4.9500s------
+  ------Sequence count: 495-------
+capturing: 79
+Buffer index: 3
+capture  complete : 79
+send  start : 79
+payload index: 29
+send  complete : 79
+  ------Sequencer wake up at 4.9600s------
+  ------Sequence count: 496-------
+--------------------p diff : 0.12011718750000000
+--------------------set no: 19 -----  set no match(frm): 20
+--------------------good frame count: 0
+  ------Sequencer wake up at 4.9700s------
+  ------Sequence count: 497-------
+  ------Sequencer wake up at 4.9800s------
+  ------Sequence count: 498-------
+  ------Sequencer wake up at 4.9900s------
+  ------Sequence count: 499-------
+  ------Sequencer wake up at 5.0000s------
+  ------Sequence count: 500-------
+capturing: 80
+Buffer index: 4
+capture  complete : 80
+send  start : 80
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 30
+send  complete : 80
+  ------Sequencer wake up at 5.0100s------
+  ------Sequence count: 501-------
+--------------------p diff : 0.19075520833333334
+--------------------set no: 20 -----  set no match(frm): 20
+--------------------good frame count: 0
+---------------good payload foun
+  ------Sequencer wake up at 5.0200s------
+  ------Sequence count: 502-------
+Image save complete 20
+Image save start 21
+  ------Sequencer wake up at 5.0300s------
+  ------Sequence count: 503-------
+  ------Sequencer wake up at 5.0400s------
+  ------Sequence count: 504-------
+  ------Sequencer wake up at 5.0500s------
+  ------Sequence count: 505-------
+capturing: 81
+Buffer index: 5
+capture  complete : 81
+send  start : 81
+payload index: 31
+send  complete : 81
+  ------Sequencer wake up at 5.0600s------
+  ------Sequence count: 506-------
+  ------Sequencer wake up at 5.0700s------
+  ------Sequence count: 507-------
+  ------Sequencer wake up at 5.0800s------
+  ------Sequence count: 508-------
+  ------Sequencer wake up at 5.0900s------
+  ------Sequence count: 509-------
+  ------Sequencer wake up at 5.1000s------
+  ------Sequence count: 510-------
+capturing: 82
+Buffer index: 6
+capture  complete : 82
+send  start : 82
+payload index: 32
+send  complete : 82
+  ------Sequencer wake up at 5.1100s------
+  ------Sequence count: 511-------
+--------------------p diff : 0.23046875000000000
+--------------------set no: 20 -----  set no match(frm): 21
+--------------------good frame count: 0
+  ------Sequencer wake up at 5.1200s------
+  ------Sequence count: 512-------
+  ------Sequencer wake up at 5.1300s------
+  ------Sequence count: 513-------
+  ------Sequencer wake up at 5.1400s------
+  ------Sequence count: 514-------
+  ------Sequencer wake up at 5.1500s------
+  ------Sequence count: 515-------
+capturing: 83
+Buffer index: 7
+capture  complete : 83
+send  start : 83
+payload index: 33
+send  complete : 83
+  ------Sequencer wake up at 5.1600s------
+  ------Sequence count: 516-------
+--------------------p diff : 0.11523437500000000
+--------------------set no: 20 -----  set no match(frm): 21
+--------------------good frame count: 0
+  ------Sequencer wake up at 5.1700s------
+  ------Sequence count: 517-------
+  ------Sequencer wake up at 5.1800s------
+  ------Sequence count: 518-------
+  ------Sequencer wake up at 5.1900s------
+  ------Sequence count: 519-------
+  ------Sequencer wake up at 5.2000s------
+  ------Sequence count: 520-------
+capturing: 84
+Buffer index: 8
+capture  complete : 84
+send  start : 84
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 34
+send  complete : 84
+  ------Sequencer wake up at 5.2100s------
+  ------Sequence count: 521-------
+--------------------p diff : 0.21126302083333334
+--------------------set no: 21 -----  set no match(frm): 21
+--------------------good frame count: 0
+  ------Sequencer wake up at 5.2200s------
+  ------Sequence count: 522-------
+  ------Sequencer wake up at 5.2300s------
+  ------Sequence count: 523-------
+  ------Sequencer wake up at 5.2400s------
+  ------Sequence count: 524-------
+  ------Sequencer wake up at 5.2500s------
+  ------Sequence count: 525-------
+capturing: 85
+Buffer index: 9
+capture  complete : 85
+send  start : 85
+payload index: 35
+send  complete : 85
+  ------Sequencer wake up at 5.2600s------
+  ------Sequence count: 526-------
+--------------------p diff : 0.11197916666666667
+--------------------set no: 21 -----  set no match(frm): 21
+--------------------good frame count: 0
+---------------good payload foun
+  ------Sequencer wake up at 5.2700s------
+  ------Sequence count: 527-------
+Image save complete 21
+Image save start 22
+  ------Sequencer wake up at 5.2800s------
+  ------Sequence count: 528-------
+  ------Sequencer wake up at 5.2900s------
+  ------Sequence count: 529-------
+  ------Sequencer wake up at 5.3000s------
+  ------Sequence count: 530-------
+capturing: 86
+Buffer index: 10
+capture  complete : 86
+send  start : 86
+payload index: 36
+send  complete : 86
+  ------Sequencer wake up at 5.3100s------
+  ------Sequence count: 531-------
+  ------Sequencer wake up at 5.3200s------
+  ------Sequence count: 532-------
+  ------Sequencer wake up at 5.3300s------
+  ------Sequence count: 533-------
+  ------Sequencer wake up at 5.3400s------
+  ------Sequence count: 534-------
+  ------Sequencer wake up at 5.3500s------
+  ------Sequence count: 535-------
+capturing: 87
+Buffer index: 11
+capture  complete : 87
+send  start : 87
+payload index: 37
+send  complete : 87
+  ------Sequencer wake up at 5.3600s------
+  ------Sequence count: 536-------
+--------------------p diff : 0.06998697916666667
+--------------------set no: 21 -----  set no match(frm): 22
+--------------------good frame count: 0
+  ------Sequencer wake up at 5.3700s------
+  ------Sequence count: 537-------
+  ------Sequencer wake up at 5.3800s------
+  ------Sequence count: 538-------
+  ------Sequencer wake up at 5.3900s------
+  ------Sequence count: 539-------
+  ------Sequencer wake up at 5.4000s------
+  ------Sequence count: 540-------
+capturing: 88
+Buffer index: 12
+capture  complete : 88
+send  start : 88
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 38
+send  complete : 88
+  ------Sequencer wake up at 5.4100s------
+  ------Sequence count: 541-------
+--------------------p diff : 0.14225260416666669
+--------------------set no: 22 -----  set no match(frm): 22
+--------------------good frame count: 0
+---------------good payload foun
+  ------Sequencer wake up at 5.4200s------
+  ------Sequence count: 542-------
+Image save complete 22
+Image save start 23
+  ------Sequencer wake up at 5.4300s------
+  ------Sequence count: 543-------
+  ------Sequencer wake up at 5.4400s------
+  ------Sequence count: 544-------
+  ------Sequencer wake up at 5.4500s------
+  ------Sequence count: 545-------
+capturing: 89
+Buffer index: 13
+capture  complete : 89
+send  start : 89
+payload index: 39
+send  complete : 89
+  ------Sequencer wake up at 5.4600s------
+  ------Sequence count: 546-------
+  ------Sequencer wake up at 5.4700s------
+  ------Sequence count: 547-------
+  ------Sequencer wake up at 5.4800s------
+  ------Sequence count: 548-------
+  ------Sequencer wake up at 5.4900s------
+  ------Sequence count: 549-------
+  ------Sequencer wake up at 5.5000s------
+  ------Sequence count: 550-------
+capturing: 90
+Buffer index: 14
+capture  complete : 90
+send  start : 90
+payload index: 40
+send  complete : 90
+  ------Sequencer wake up at 5.5100s------
+  ------Sequence count: 551-------
+--------------------p diff : 0.23274739583333334
+--------------------set no: 22 -----  set no match(frm): 23
+--------------------good frame count: 0
+  ------Sequencer wake up at 5.5200s------
+  ------Sequence count: 552-------
+  ------Sequencer wake up at 5.5300s------
+  ------Sequence count: 553-------
+  ------Sequencer wake up at 5.5400s------
+  ------Sequence count: 554-------
+  ------Sequencer wake up at 5.5500s------
+  ------Sequence count: 555-------
+capturing: 91
+Buffer index: 15
+capture  complete : 91
+send  start : 91
+payload index: 41
+send  complete : 91
+  ------Sequencer wake up at 5.5600s------
+  ------Sequence count: 556-------
+--------------------p diff : 0.10677083333333333
+--------------------set no: 22 -----  set no match(frm): 23
+--------------------good frame count: 0
+  ------Sequencer wake up at 5.5700s------
+  ------Sequence count: 557-------
+  ------Sequencer wake up at 5.5800s------
+  ------Sequence count: 558-------
+  ------Sequencer wake up at 5.5900s------
+  ------Sequence count: 559-------
+  ------Sequencer wake up at 5.6000s------
+  ------Sequence count: 560-------
+capturing: 92
+Buffer index: 0
+capture  complete : 92
+send  start : 92
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 42
+send  complete : 92
+  ------Sequencer wake up at 5.6100s------
+  ------Sequence count: 561-------
+--------------------p diff : 0.11914062500000000
+--------------------set no: 23 -----  set no match(frm): 23
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 23
+Image save start 24
+  ------Sequencer wake up at 5.6200s------
+  ------Sequence count: 562-------
+  ------Sequencer wake up at 5.6300s------
+  ------Sequence count: 563-------
+  ------Sequencer wake up at 5.6400s------
+  ------Sequence count: 564-------
+  ------Sequencer wake up at 5.6500s------
+  ------Sequence count: 565-------
+capturing: 93
+Buffer index: 1
+capture  complete : 93
+send  start : 93
+payload index: 43
+send  complete : 93
+  ------Sequencer wake up at 5.6600s------
+  ------Sequence count: 566-------
+  ------Sequencer wake up at 5.6700s------
+  ------Sequence count: 567-------
+  ------Sequencer wake up at 5.6800s------
+  ------Sequence count: 568-------
+  ------Sequencer wake up at 5.6900s------
+  ------Sequence count: 569-------
+  ------Sequencer wake up at 5.7000s------
+  ------Sequence count: 570-------
+capturing: 94
+Buffer index: 2
+capture  complete : 94
+send  start : 94
+payload index: 44
+send  complete : 94
+  ------Sequencer wake up at 5.7101s------
+  ------Sequence count: 571-------
+--------------------p diff : 0.84602864583333337
+--------------------set no: 23 -----  set no match(frm): 24
+--------------------good frame count: 0
+  ------Sequencer wake up at 5.7200s------
+  ------Sequence count: 572-------
+  ------Sequencer wake up at 5.7300s------
+  ------Sequence count: 573-------
+  ------Sequencer wake up at 5.7400s------
+  ------Sequence count: 574-------
+  ------Sequencer wake up at 5.7500s------
+  ------Sequence count: 575-------
+capturing: 95
+Buffer index: 3
+capture  complete : 95
+send  start : 95
+payload index: 45
+send  complete : 95
+  ------Sequencer wake up at 5.7600s------
+  ------Sequence count: 576-------
+--------------------p diff : 0.31868489583333331
+--------------------set no: 23 -----  set no match(frm): 24
+--------------------good frame count: 0
+  ------Sequencer wake up at 5.7700s------
+  ------Sequence count: 577-------
+  ------Sequencer wake up at 5.7800s------
+  ------Sequence count: 578-------
+  ------Sequencer wake up at 5.7900s------
+  ------Sequence count: 579-------
+  ------Sequencer wake up at 5.8000s------
+  ------Sequence count: 580-------
+capturing: 96
+Buffer index: 4
+capture  complete : 96
+send  start : 96
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 46
+send  complete : 96
+  ------Sequencer wake up at 5.8100s------
+  ------Sequence count: 581-------
+--------------------p diff : 0.23404947916666666
+--------------------set no: 24 -----  set no match(frm): 24
+--------------------good frame count: 0
+  ------Sequencer wake up at 5.8200s------
+  ------Sequence count: 582-------
+  ------Sequencer wake up at 5.8300s------
+  ------Sequence count: 583-------
+  ------Sequencer wake up at 5.8400s------
+  ------Sequence count: 584-------
+  ------Sequencer wake up at 5.8500s------
+  ------Sequence count: 585-------
+capturing: 97
+Buffer index: 5
+capture  complete : 97
+send  start : 97
+payload index: 47
+send  complete : 97
+  ------Sequencer wake up at 5.8600s------
+  ------Sequence count: 586-------
+--------------------p diff : 0.09863281250000000
+--------------------set no: 24 -----  set no match(frm): 24
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 24
+Image save start 25
+  ------Sequencer wake up at 5.8700s------
+  ------Sequence count: 587-------
+  ------Sequencer wake up at 5.8800s------
+  ------Sequence count: 588-------
+  ------Sequencer wake up at 5.8900s------
+  ------Sequence count: 589-------
+  ------Sequencer wake up at 5.9000s------
+  ------Sequence count: 590-------
+capturing: 98
+Buffer index: 6
+capture  complete : 98
+send  start : 98
+payload index: 48
+send  complete : 98
+  ------Sequencer wake up at 5.9100s------
+  ------Sequence count: 591-------
+  ------Sequencer wake up at 5.9200s------
+  ------Sequence count: 592-------
+  ------Sequencer wake up at 5.9300s------
+  ------Sequence count: 593-------
+  ------Sequencer wake up at 5.9400s------
+  ------Sequence count: 594-------
+  ------Sequencer wake up at 5.9500s------
+  ------Sequence count: 595-------
+capturing: 99
+Buffer index: 7
+capture  complete : 99
+send  start : 99
+payload index: 49
+send  complete : 99
+  ------Sequencer wake up at 5.9600s------
+  ------Sequence count: 596-------
+--------------------p diff : 0.09928385416666666
+--------------------set no: 24 -----  set no match(frm): 25
+--------------------good frame count: 0
+  ------Sequencer wake up at 5.9700s------
+  ------Sequence count: 597-------
+  ------Sequencer wake up at 5.9800s------
+  ------Sequence count: 598-------
+  ------Sequencer wake up at 5.9900s------
+  ------Sequence count: 599-------
+  ------Sequencer wake up at 6.0000s------
+  ------Sequence count: 600-------
+capturing: 100
+Buffer index: 8
+capture  complete : 100
+send  start : 100
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 0
+send  complete : 100
+  ------Sequencer wake up at 6.0100s------
+  ------Sequence count: 601-------
+--------------------p diff : 0.15820312500000000
+--------------------set no: 25 -----  set no match(frm): 25
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 25
+Image save start 26
+  ------Sequencer wake up at 6.0200s------
+  ------Sequence count: 602-------
+  ------Sequencer wake up at 6.0300s------
+  ------Sequence count: 603-------
+  ------Sequencer wake up at 6.0400s------
+  ------Sequence count: 604-------
+  ------Sequencer wake up at 6.0500s------
+  ------Sequence count: 605-------
+capturing: 101
+Buffer index: 9
+capture  complete : 101
+send  start : 101
+payload index: 1
+send  complete : 101
+  ------Sequencer wake up at 6.0600s------
+  ------Sequence count: 606-------
+  ------Sequencer wake up at 6.0700s------
+  ------Sequence count: 607-------
+  ------Sequencer wake up at 6.0800s------
+  ------Sequence count: 608-------
+  ------Sequencer wake up at 6.0900s------
+  ------Sequence count: 609-------
+  ------Sequencer wake up at 6.1000s------
+  ------Sequence count: 610-------
+capturing: 102
+Buffer index: 10
+capture  complete : 102
+send  start : 102
+payload index: 2
+send  complete : 102
+  ------Sequencer wake up at 6.1100s------
+  ------Sequence count: 611-------
+--------------------p diff : 0.22851562500000000
+--------------------set no: 25 -----  set no match(frm): 26
+--------------------good frame count: 0
+  ------Sequencer wake up at 6.1200s------
+  ------Sequence count: 612-------
+  ------Sequencer wake up at 6.1300s------
+  ------Sequence count: 613-------
+  ------Sequencer wake up at 6.1400s------
+  ------Sequence count: 614-------
+  ------Sequencer wake up at 6.1500s------
+  ------Sequence count: 615-------
+capturing: 103
+Buffer index: 11
+capture  complete : 103
+send  start : 103
+payload index: 3
+send  complete : 103
+  ------Sequencer wake up at 6.1600s------
+  ------Sequence count: 616-------
+--------------------p diff : 0.18424479166666669
+--------------------set no: 25 -----  set no match(frm): 26
+--------------------good frame count: 0
+  ------Sequencer wake up at 6.1700s------
+  ------Sequence count: 617-------
+  ------Sequencer wake up at 6.1800s------
+  ------Sequence count: 618-------
+  ------Sequencer wake up at 6.1900s------
+  ------Sequence count: 619-------
+  ------Sequencer wake up at 6.2000s------
+  ------Sequence count: 620-------
+capturing: 104
+Buffer index: 12
+capture  complete : 104
+send  start : 104
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 4
+send  complete : 104
+  ------Sequencer wake up at 6.2100s------
+  ------Sequence count: 621-------
+--------------------p diff : 0.23730468750000003
+--------------------set no: 26 -----  set no match(frm): 26
+--------------------good frame count: 0
+  ------Sequencer wake up at 6.2200s------
+  ------Sequence count: 622-------
+  ------Sequencer wake up at 6.2300s------
+  ------Sequence count: 623-------
+  ------Sequencer wake up at 6.2400s------
+  ------Sequence count: 624-------
+  ------Sequencer wake up at 6.2500s------
+  ------Sequence count: 625-------
+capturing: 105
+Buffer index: 13
+capture  complete : 105
+send  start : 105
+payload index: 5
+send  complete : 105
+  ------Sequencer wake up at 6.2600s------
+  ------Sequence count: 626-------
+--------------------p diff : 0.09765625000000000
+--------------------set no: 26 -----  set no match(frm): 26
+--------------------good frame count: 0
+---------------good payload foun
+  ------Sequencer wake up at 6.2700s------
+  ------Sequence count: 627-------
+  ------Sequencer wake up at 6.2800s------
+  ------Sequence count: 628-------
+Image save complete 26
+Image save start 27
+  ------Sequencer wake up at 6.2900s------
+  ------Sequence count: 629-------
+  ------Sequencer wake up at 6.3000s------
+  ------Sequence count: 630-------
+capturing: 106
+Buffer index: 14
+capture  complete : 106
+send  start : 106
+payload index: 6
+send  complete : 106
+  ------Sequencer wake up at 6.3100s------
+  ------Sequence count: 631-------
+  ------Sequencer wake up at 6.3200s------
+  ------Sequence count: 632-------
+  ------Sequencer wake up at 6.3300s------
+  ------Sequence count: 633-------
+  ------Sequencer wake up at 6.3400s------
+  ------Sequence count: 634-------
+  ------Sequencer wake up at 6.3500s------
+  ------Sequence count: 635-------
+capturing: 107
+Buffer index: 15
+capture  complete : 107
+send  start : 107
+payload index: 7
+send  complete : 107
+  ------Sequencer wake up at 6.3600s------
+  ------Sequence count: 636-------
+--------------------p diff : 0.09635416666666667
+--------------------set no: 26 -----  set no match(frm): 27
+--------------------good frame count: 0
+  ------Sequencer wake up at 6.3700s------
+  ------Sequence count: 637-------
+  ------Sequencer wake up at 6.3800s------
+  ------Sequence count: 638-------
+  ------Sequencer wake up at 6.3900s------
+  ------Sequence count: 639-------
+  ------Sequencer wake up at 6.4000s------
+  ------Sequence count: 640-------
+capturing: 108
+Buffer index: 0
+capture  complete : 108
+send  start : 108
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 8
+send  complete : 108
+  ------Sequencer wake up at 6.4100s------
+  ------Sequence count: 641-------
+--------------------p diff : 0.23502604166666669
+--------------------set no: 27 -----  set no match(frm): 27
+--------------------good frame count: 0
+  ------Sequencer wake up at 6.4200s------
+  ------Sequence count: 642-------
+  ------Sequencer wake up at 6.4300s------
+  ------Sequence count: 643-------
+  ------Sequencer wake up at 6.4400s------
+  ------Sequence count: 644-------
+  ------Sequencer wake up at 6.4500s------
+  ------Sequence count: 645-------
+capturing: 109
+Buffer index: 1
+capture  complete : 109
+send  start : 109
+payload index: 9
+send  complete : 109
+  ------Sequencer wake up at 6.4600s------
+  ------Sequence count: 646-------
+--------------------p diff : 0.08723958333333333
+--------------------set no: 27 -----  set no match(frm): 27
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 27
+Image save start 28
+  ------Sequencer wake up at 6.4700s------
+  ------Sequence count: 647-------
+  ------Sequencer wake up at 6.4800s------
+  ------Sequence count: 648-------
+  ------Sequencer wake up at 6.4900s------
+  ------Sequence count: 649-------
+  ------Sequencer wake up at 6.5000s------
+  ------Sequence count: 650-------
+capturing: 110
+Buffer index: 2
+capture  complete : 110
+send  start : 110
+payload index: 10
+send  complete : 110
+  ------Sequencer wake up at 6.5100s------
+  ------Sequence count: 651-------
+  ------Sequencer wake up at 6.5200s------
+  ------Sequence count: 652-------
+  ------Sequencer wake up at 6.5300s------
+  ------Sequence count: 653-------
+  ------Sequencer wake up at 6.5400s------
+  ------Sequence count: 654-------
+  ------Sequencer wake up at 6.5500s------
+  ------Sequence count: 655-------
+capturing: 111
+Buffer index: 3
+capture  complete : 111
+send  start : 111
+payload index: 11
+send  complete : 111
+  ------Sequencer wake up at 6.5600s------
+  ------Sequence count: 656-------
+--------------------p diff : 0.16048177083333334
+--------------------set no: 27 -----  set no match(frm): 28
+--------------------good frame count: 0
+  ------Sequencer wake up at 6.5700s------
+  ------Sequence count: 657-------
+  ------Sequencer wake up at 6.5800s------
+  ------Sequence count: 658-------
+  ------Sequencer wake up at 6.5900s------
+  ------Sequence count: 659-------
+  ------Sequencer wake up at 6.6000s------
+  ------Sequence count: 660-------
+capturing: 112
+Buffer index: 4
+capture  complete : 112
+send  start : 112
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 12
+send  complete : 112
+  ------Sequencer wake up at 6.6100s------
+  ------Sequence count: 661-------
+--------------------p diff : 0.17285156250000000
+--------------------set no: 28 -----  set no match(frm): 28
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 28
+Image save start 29
+  ------Sequencer wake up at 6.6200s------
+  ------Sequence count: 662-------
+  ------Sequencer wake up at 6.6300s------
+  ------Sequence count: 663-------
+  ------Sequencer wake up at 6.6400s------
+  ------Sequence count: 664-------
+  ------Sequencer wake up at 6.6500s------
+  ------Sequence count: 665-------
+capturing: 113
+Buffer index: 5
+capture  complete : 113
+send  start : 113
+payload index: 13
+send  complete : 113
+  ------Sequencer wake up at 6.6600s------
+  ------Sequence count: 666-------
+  ------Sequencer wake up at 6.6700s------
+  ------Sequence count: 667-------
+  ------Sequencer wake up at 6.6800s------
+  ------Sequence count: 668-------
+  ------Sequencer wake up at 6.6900s------
+  ------Sequence count: 669-------
+  ------Sequencer wake up at 6.7000s------
+  ------Sequence count: 670-------
+capturing: 114
+Buffer index: 6
+capture  complete : 114
+send  start : 114
+payload index: 14
+send  complete : 114
+  ------Sequencer wake up at 6.7100s------
+  ------Sequence count: 671-------
+--------------------p diff : 0.49576822916666669
+--------------------set no: 28 -----  set no match(frm): 29
+--------------------good frame count: 0
+  ------Sequencer wake up at 6.7200s------
+  ------Sequence count: 672-------
+  ------Sequencer wake up at 6.7300s------
+  ------Sequence count: 673-------
+  ------Sequencer wake up at 6.7400s------
+  ------Sequence count: 674-------
+  ------Sequencer wake up at 6.7500s------
+  ------Sequence count: 675-------
+capturing: 115
+Buffer index: 7
+capture  complete : 115
+send  start : 115
+payload index: 15
+send  complete : 115
+  ------Sequencer wake up at 6.7600s------
+  ------Sequence count: 676-------
+--------------------p diff : 0.12955729166666666
+--------------------set no: 28 -----  set no match(frm): 29
+--------------------good frame count: 0
+  ------Sequencer wake up at 6.7700s------
+  ------Sequence count: 677-------
+  ------Sequencer wake up at 6.7800s------
+  ------Sequence count: 678-------
+  ------Sequencer wake up at 6.7900s------
+  ------Sequence count: 679-------
+  ------Sequencer wake up at 6.8000s------
+  ------Sequence count: 680-------
+capturing: 116
+Buffer index: 8
+capture  complete : 116
+send  start : 116
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 16
+send  complete : 116
+  ------Sequencer wake up at 6.8100s------
+  ------Sequence count: 681-------
+--------------------p diff : 0.15690104166666666
+--------------------set no: 29 -----  set no match(frm): 29
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 29
+Image save start 30
+  ------Sequencer wake up at 6.8200s------
+  ------Sequence count: 682-------
+  ------Sequencer wake up at 6.8300s------
+  ------Sequence count: 683-------
+  ------Sequencer wake up at 6.8400s------
+  ------Sequence count: 684-------
+  ------Sequencer wake up at 6.8500s------
+  ------Sequence count: 685-------
+capturing: 117
+Buffer index: 9
+capture  complete : 117
+send  start : 117
+payload index: 17
+send  complete : 117
+  ------Sequencer wake up at 6.8600s------
+  ------Sequence count: 686-------
+  ------Sequencer wake up at 6.8700s------
+  ------Sequence count: 687-------
+  ------Sequencer wake up at 6.8800s------
+  ------Sequence count: 688-------
+  ------Sequencer wake up at 6.8900s------
+  ------Sequence count: 689-------
+  ------Sequencer wake up at 6.9000s------
+  ------Sequence count: 690-------
+capturing: 118
+Buffer index: 10
+capture  complete : 118
+send  start : 118
+payload index: 18
+send  complete : 118
+  ------Sequencer wake up at 6.9100s------
+  ------Sequence count: 691-------
+--------------------p diff : 0.19791666666666669
+--------------------set no: 29 -----  set no match(frm): 30
+--------------------good frame count: 0
+  ------Sequencer wake up at 6.9200s------
+  ------Sequence count: 692-------
+  ------Sequencer wake up at 6.9300s------
+  ------Sequence count: 693-------
+  ------Sequencer wake up at 6.9400s------
+  ------Sequence count: 694-------
+  ------Sequencer wake up at 6.9500s------
+  ------Sequence count: 695-------
+capturing: 119
+Buffer index: 11
+capture  complete : 119
+send  start : 119
+payload index: 19
+send  complete : 119
+  ------Sequencer wake up at 6.9600s------
+  ------Sequence count: 696-------
+--------------------p diff : 0.20149739583333334
+--------------------set no: 29 -----  set no match(frm): 30
+--------------------good frame count: 0
+  ------Sequencer wake up at 6.9700s------
+  ------Sequence count: 697-------
+  ------Sequencer wake up at 6.9800s------
+  ------Sequence count: 698-------
+  ------Sequencer wake up at 6.9900s------
+  ------Sequence count: 699-------
+  ------Sequencer wake up at 7.0000s------
+  ------Sequence count: 700-------
+capturing: 120
+Buffer index: 12
+capture  complete : 120
+send  start : 120
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 20
+send  complete : 120
+  ------Sequencer wake up at 7.0100s------
+  ------Sequence count: 701-------
+--------------------p diff : 0.12825520833333331
+--------------------set no: 30 -----  set no match(frm): 30
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 30
+Image save start 31
+  ------Sequencer wake up at 7.0200s------
+  ------Sequence count: 702-------
+  ------Sequencer wake up at 7.0300s------
+  ------Sequence count: 703-------
+  ------Sequencer wake up at 7.0400s------
+  ------Sequence count: 704-------
+  ------Sequencer wake up at 7.0500s------
+  ------Sequence count: 705-------
+capturing: 121
+Buffer index: 13
+capture  complete : 121
+send  start : 121
+payload index: 21
+send  complete : 121
+  ------Sequencer wake up at 7.0600s------
+  ------Sequence count: 706-------
+  ------Sequencer wake up at 7.0700s------
+  ------Sequence count: 707-------
+  ------Sequencer wake up at 7.0800s------
+  ------Sequence count: 708-------
+  ------Sequencer wake up at 7.0900s------
+  ------Sequence count: 709-------
+  ------Sequencer wake up at 7.1000s------
+  ------Sequence count: 710-------
+capturing: 122
+Buffer index: 14
+capture  complete : 122
+send  start : 122
+payload index: 22
+send  complete : 122
+  ------Sequencer wake up at 7.1100s------
+  ------Sequence count: 711-------
+--------------------p diff : 0.21712239583333331
+--------------------set no: 30 -----  set no match(frm): 31
+--------------------good frame count: 0
+  ------Sequencer wake up at 7.1200s------
+  ------Sequence count: 712-------
+  ------Sequencer wake up at 7.1300s------
+  ------Sequence count: 713-------
+  ------Sequencer wake up at 7.1400s------
+  ------Sequence count: 714-------
+  ------Sequencer wake up at 7.1500s------
+  ------Sequence count: 715-------
+capturing: 123
+Buffer index: 15
+capture  complete : 123
+send  start : 123
+payload index: 23
+send  complete : 123
+  ------Sequencer wake up at 7.1600s------
+  ------Sequence count: 716-------
+--------------------p diff : 0.10839843750000001
+--------------------set no: 30 -----  set no match(frm): 31
+--------------------good frame count: 0
+  ------Sequencer wake up at 7.1700s------
+  ------Sequence count: 717-------
+  ------Sequencer wake up at 7.1800s------
+  ------Sequence count: 718-------
+  ------Sequencer wake up at 7.1900s------
+  ------Sequence count: 719-------
+  ------Sequencer wake up at 7.2000s------
+  ------Sequence count: 720-------
+capturing: 124
+Buffer index: 0
+capture  complete : 124
+send  start : 124
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 24
+send  complete : 124
+  ------Sequencer wake up at 7.2100s------
+  ------Sequence count: 721-------
+--------------------p diff : 0.20540364583333334
+--------------------set no: 31 -----  set no match(frm): 31
+--------------------good frame count: 0
+  ------Sequencer wake up at 7.2200s------
+  ------Sequence count: 722-------
+  ------Sequencer wake up at 7.2300s------
+  ------Sequence count: 723-------
+  ------Sequencer wake up at 7.2400s------
+  ------Sequence count: 724-------
+  ------Sequencer wake up at 7.2500s------
+  ------Sequence count: 725-------
+capturing: 125
+Buffer index: 1
+capture  complete : 125
+send  start : 125
+payload index: 25
+send  complete : 125
+  ------Sequencer wake up at 7.2600s------
+  ------Sequence count: 726-------
+--------------------p diff : 0.12792968750000000
+--------------------set no: 31 -----  set no match(frm): 31
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 31
+Image save start 32
+  ------Sequencer wake up at 7.2700s------
+  ------Sequence count: 727-------
+  ------Sequencer wake up at 7.2800s------
+  ------Sequence count: 728-------
+  ------Sequencer wake up at 7.2900s------
+  ------Sequence count: 729-------
+  ------Sequencer wake up at 7.3000s------
+  ------Sequence count: 730-------
+capturing: 126
+Buffer index: 2
+capture  complete : 126
+send  start : 126
+payload index: 26
+send  complete : 126
+  ------Sequencer wake up at 7.3100s------
+  ------Sequence count: 731-------
+  ------Sequencer wake up at 7.3200s------
+  ------Sequence count: 732-------
+  ------Sequencer wake up at 7.3300s------
+  ------Sequence count: 733-------
+  ------Sequencer wake up at 7.3400s------
+  ------Sequence count: 734-------
+  ------Sequencer wake up at 7.3500s------
+  ------Sequence count: 735-------
+capturing: 127
+Buffer index: 3
+capture  complete : 127
+send  start : 127
+payload index: 27
+send  complete : 127
+  ------Sequencer wake up at 7.3600s------
+  ------Sequence count: 736-------
+--------------------p diff : 0.20540364583333334
+--------------------set no: 31 -----  set no match(frm): 32
+--------------------good frame count: 0
+  ------Sequencer wake up at 7.3700s------
+  ------Sequence count: 737-------
+  ------Sequencer wake up at 7.3800s------
+  ------Sequence count: 738-------
+  ------Sequencer wake up at 7.3900s------
+  ------Sequence count: 739-------
+  ------Sequencer wake up at 7.4000s------
+  ------Sequence count: 740-------
+capturing: 128
+Buffer index: 4
+capture  complete : 128
+send  start : 128
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 28
+send  complete : 128
+  ------Sequencer wake up at 7.4100s------
+  ------Sequence count: 741-------
+--------------------p diff : 0.22591145833333334
+--------------------set no: 32 -----  set no match(frm): 32
+--------------------good frame count: 0
+  ------Sequencer wake up at 7.4200s------
+  ------Sequence count: 742-------
+  ------Sequencer wake up at 7.4300s------
+  ------Sequence count: 743-------
+  ------Sequencer wake up at 7.4400s------
+  ------Sequence count: 744-------
+  ------Sequencer wake up at 7.4500s------
+  ------Sequence count: 745-------
+capturing: 129
+Buffer index: 5
+capture  complete : 129
+send  start : 129
+payload index: 29
+send  complete : 129
+  ------Sequencer wake up at 7.4600s------
+  ------Sequence count: 746-------
+--------------------p diff : 0.22298177083333331
+--------------------set no: 32 -----  set no match(frm): 32
+--------------------good frame count: 0
+  ------Sequencer wake up at 7.4700s------
+  ------Sequence count: 747-------
+  ------Sequencer wake up at 7.4800s------
+  ------Sequence count: 748-------
+  ------Sequencer wake up at 7.4900s------
+  ------Sequence count: 749-------
+  ------Sequencer wake up at 7.5000s------
+  ------Sequence count: 750-------
+capturing: 130
+Buffer index: 6
+capture  complete : 130
+send  start : 130
+payload index: 30
+send  complete : 130
+  ------Sequencer wake up at 7.5100s------
+  ------Sequence count: 751-------
+--------------------p diff : 0.21354166666666666
+--------------------set no: 32 -----  set no match(frm): 32
+--------------------good frame count: 0
+  ------Sequencer wake up at 7.5200s------
+  ------Sequence count: 752-------
+  ------Sequencer wake up at 7.5300s------
+  ------Sequence count: 753-------
+  ------Sequencer wake up at 7.5400s------
+  ------Sequence count: 754-------
+  ------Sequencer wake up at 7.5500s------
+  ------Sequence count: 755-------
+capturing: 131
+Buffer index: 7
+capture  complete : 131
+send  start : 131
+payload index: 31
+send  complete : 131
+  ------Sequencer wake up at 7.5600s------
+  ------Sequence count: 756-------
+--------------------p diff : 0.11751302083333334
+--------------------set no: 32 -----  set no match(frm): 32
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 32
+Image save start 33
+  ------Sequencer wake up at 7.5700s------
+  ------Sequence count: 757-------
+  ------Sequencer wake up at 7.5800s------
+  ------Sequence count: 758-------
+  ------Sequencer wake up at 7.5900s------
+  ------Sequence count: 759-------
+  ------Sequencer wake up at 7.6000s------
+  ------Sequence count: 760-------
+capturing: 132
+Buffer index: 8
+capture  complete : 132
+send  start : 132
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 32
+send  complete : 132
+  ------Sequencer wake up at 7.6100s------
+  ------Sequence count: 761-------
+  ------Sequencer wake up at 7.6200s------
+  ------Sequence count: 762-------
+  ------Sequencer wake up at 7.6300s------
+  ------Sequence count: 763-------
+  ------Sequencer wake up at 7.6400s------
+  ------Sequence count: 764-------
+  ------Sequencer wake up at 7.6500s------
+  ------Sequence count: 765-------
+capturing: 133
+Buffer index: 9
+capture  complete : 133
+send  start : 133
+payload index: 33
+send  complete : 133
+  ------Sequencer wake up at 7.6600s------
+  ------Sequence count: 766-------
+--------------------p diff : 0.09830729166666666
+--------------------set no: 33 -----  set no match(frm): 33
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 33
+Image save start 34
+  ------Sequencer wake up at 7.6700s------
+  ------Sequence count: 767-------
+  ------Sequencer wake up at 7.6800s------
+  ------Sequence count: 768-------
+  ------Sequencer wake up at 7.6900s------
+  ------Sequence count: 769-------
+  ------Sequencer wake up at 7.7000s------
+  ------Sequence count: 770-------
+capturing: 134
+Buffer index: 10
+capture  complete : 134
+send  start : 134
+payload index: 34
+send  complete : 134
+  ------Sequencer wake up at 7.7100s------
+  ------Sequence count: 771-------
+  ------Sequencer wake up at 7.7200s------
+  ------Sequence count: 772-------
+  ------Sequencer wake up at 7.7300s------
+  ------Sequence count: 773-------
+  ------Sequencer wake up at 7.7400s------
+  ------Sequence count: 774-------
+  ------Sequencer wake up at 7.7500s------
+  ------Sequence count: 775-------
+capturing: 135
+Buffer index: 11
+capture  complete : 135
+send  start : 135
+payload index: 35
+send  complete : 135
+  ------Sequencer wake up at 7.7600s------
+  ------Sequence count: 776-------
+--------------------p diff : 0.12337239583333334
+--------------------set no: 33 -----  set no match(frm): 34
+--------------------good frame count: 0
+  ------Sequencer wake up at 7.7700s------
+  ------Sequence count: 777-------
+  ------Sequencer wake up at 7.7800s------
+  ------Sequence count: 778-------
+  ------Sequencer wake up at 7.7900s------
+  ------Sequence count: 779-------
+  ------Sequencer wake up at 7.8000s------
+  ------Sequence count: 780-------
+capturing: 136
+Buffer index: 12
+capture  complete : 136
+send  start : 136
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 36
+send  complete : 136
+  ------Sequencer wake up at 7.8100s------
+  ------Sequence count: 781-------
+--------------------p diff : 0.26204427083333331
+--------------------set no: 34 -----  set no match(frm): 34
+--------------------good frame count: 0
+  ------Sequencer wake up at 7.8200s------
+  ------Sequence count: 782-------
+  ------Sequencer wake up at 7.8300s------
+  ------Sequence count: 783-------
+  ------Sequencer wake up at 7.8400s------
+  ------Sequence count: 784-------
+  ------Sequencer wake up at 7.8500s------
+  ------Sequence count: 785-------
+capturing: 137
+Buffer index: 13
+capture  complete : 137
+send  start : 137
+payload index: 37
+send  complete : 137
+  ------Sequencer wake up at 7.8600s------
+  ------Sequence count: 786-------
+--------------------p diff : 0.13053385416666666
+--------------------set no: 34 -----  set no match(frm): 34
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 34
+Image save start 35
+  ------Sequencer wake up at 7.8700s------
+  ------Sequence count: 787-------
+  ------Sequencer wake up at 7.8800s------
+  ------Sequence count: 788-------
+  ------Sequencer wake up at 7.8900s------
+  ------Sequence count: 789-------
+  ------Sequencer wake up at 7.9000s------
+  ------Sequence count: 790-------
+capturing: 138
+Buffer index: 14
+capture  complete : 138
+send  start : 138
+payload index: 38
+send  complete : 138
+  ------Sequencer wake up at 7.9100s------
+  ------Sequence count: 791-------
+  ------Sequencer wake up at 7.9200s------
+  ------Sequence count: 792-------
+  ------Sequencer wake up at 7.9300s------
+  ------Sequence count: 793-------
+  ------Sequencer wake up at 7.9400s------
+  ------Sequence count: 794-------
+  ------Sequencer wake up at 7.9500s------
+  ------Sequence count: 795-------
+capturing: 139
+Buffer index: 15
+capture  complete : 139
+send  start : 139
+payload index: 39
+send  complete : 139
+  ------Sequencer wake up at 7.9600s------
+  ------Sequence count: 796-------
+--------------------p diff : 0.11881510416666666
+--------------------set no: 34 -----  set no match(frm): 35
+--------------------good frame count: 0
+  ------Sequencer wake up at 7.9700s------
+  ------Sequence count: 797-------
+  ------Sequencer wake up at 7.9800s------
+  ------Sequence count: 798-------
+  ------Sequencer wake up at 7.9900s------
+  ------Sequence count: 799-------
+  ------Sequencer wake up at 8.0000s------
+  ------Sequence count: 800-------
+capturing: 140
+Buffer index: 0
+capture  complete : 140
+send  start : 140
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 40
+send  complete : 140
+  ------Sequencer wake up at 8.0100s------
+  ------Sequence count: 801-------
+--------------------p diff : 0.18294270833333334
+--------------------set no: 35 -----  set no match(frm): 35
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 35
+Image save start 36
+  ------Sequencer wake up at 8.0200s------
+  ------Sequence count: 802-------
+  ------Sequencer wake up at 8.0300s------
+  ------Sequence count: 803-------
+  ------Sequencer wake up at 8.0400s------
+  ------Sequence count: 804-------
+  ------Sequencer wake up at 8.0500s------
+  ------Sequence count: 805-------
+capturing: 141
+Buffer index: 1
+capture  complete : 141
+send  start : 141
+payload index: 41
+send  complete : 141
+  ------Sequencer wake up at 8.0600s------
+  ------Sequence count: 806-------
+  ------Sequencer wake up at 8.0700s------
+  ------Sequence count: 807-------
+  ------Sequencer wake up at 8.0800s------
+  ------Sequence count: 808-------
+  ------Sequencer wake up at 8.0900s------
+  ------Sequence count: 809-------
+  ------Sequencer wake up at 8.1000s------
+  ------Sequence count: 810-------
+capturing: 142
+Buffer index: 2
+capture  complete : 142
+send  start : 142
+payload index: 42
+send  complete : 142
+  ------Sequencer wake up at 8.1100s------
+  ------Sequence count: 811-------
+--------------------p diff : 0.20963541666666666
+--------------------set no: 35 -----  set no match(frm): 36
+--------------------good frame count: 0
+  ------Sequencer wake up at 8.1200s------
+  ------Sequence count: 812-------
+  ------Sequencer wake up at 8.1300s------
+  ------Sequence count: 813-------
+  ------Sequencer wake up at 8.1401s------
+  ------Sequence count: 814-------
+  ------Sequencer wake up at 8.1500s------
+  ------Sequence count: 815-------
+capturing: 143
+Buffer index: 3
+capture  complete : 143
+send  start : 143
+payload index: 43
+send  complete : 143
+  ------Sequencer wake up at 8.1600s------
+  ------Sequence count: 816-------
+--------------------p diff : 0.12174479166666666
+--------------------set no: 35 -----  set no match(frm): 36
+--------------------good frame count: 0
+  ------Sequencer wake up at 8.1700s------
+  ------Sequence count: 817-------
+  ------Sequencer wake up at 8.1800s------
+  ------Sequence count: 818-------
+  ------Sequencer wake up at 8.1900s------
+  ------Sequence count: 819-------
+  ------Sequencer wake up at 8.2000s------
+  ------Sequence count: 820-------
+capturing: 144
+Buffer index: 4
+capture  complete : 144
+send  start : 144
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 44
+send  complete : 144
+  ------Sequencer wake up at 8.2100s------
+  ------Sequence count: 821-------
+--------------------p diff : 0.24088541666666669
+--------------------set no: 36 -----  set no match(frm): 36
+--------------------good frame count: 0
+  ------Sequencer wake up at 8.2200s------
+  ------Sequence count: 822-------
+  ------Sequencer wake up at 8.2300s------
+  ------Sequence count: 823-------
+  ------Sequencer wake up at 8.2400s------
+  ------Sequence count: 824-------
+  ------Sequencer wake up at 8.2500s------
+  ------Sequence count: 825-------
+capturing: 145
+Buffer index: 5
+capture  complete : 145
+send  start : 145
+payload index: 45
+send  complete : 145
+  ------Sequencer wake up at 8.2600s------
+  ------Sequence count: 826-------
+--------------------p diff : 0.13216145833333331
+--------------------set no: 36 -----  set no match(frm): 36
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 36
+Image save start 37
+  ------Sequencer wake up at 8.2700s------
+  ------Sequence count: 827-------
+  ------Sequencer wake up at 8.2800s------
+  ------Sequence count: 828-------
+  ------Sequencer wake up at 8.2900s------
+  ------Sequence count: 829-------
+  ------Sequencer wake up at 8.3000s------
+  ------Sequence count: 830-------
+capturing: 146
+Buffer index: 6
+capture  complete : 146
+send  start : 146
+payload index: 46
+send  complete : 146
+  ------Sequencer wake up at 8.3100s------
+  ------Sequence count: 831-------
+  ------Sequencer wake up at 8.3200s------
+  ------Sequence count: 832-------
+  ------Sequencer wake up at 8.3300s------
+  ------Sequence count: 833-------
+  ------Sequencer wake up at 8.3400s------
+  ------Sequence count: 834-------
+  ------Sequencer wake up at 8.3500s------
+  ------Sequence count: 835-------
+capturing: 147
+Buffer index: 7
+capture  complete : 147
+send  start : 147
+payload index: 47
+send  complete : 147
+  ------Sequencer wake up at 8.3600s------
+  ------Sequence count: 836-------
+--------------------p diff : 0.11490885416666667
+--------------------set no: 36 -----  set no match(frm): 37
+--------------------good frame count: 0
+  ------Sequencer wake up at 8.3700s------
+  ------Sequence count: 837-------
+  ------Sequencer wake up at 8.3800s------
+  ------Sequence count: 838-------
+  ------Sequencer wake up at 8.3900s------
+  ------Sequence count: 839-------
+  ------Sequencer wake up at 8.4000s------
+  ------Sequence count: 840-------
+capturing: 148
+Buffer index: 8
+capture  complete : 148
+send  start : 148
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 48
+send  complete : 148
+  ------Sequencer wake up at 8.4100s------
+  ------Sequence count: 841-------
+--------------------p diff : 0.24186197916666666
+--------------------set no: 37 -----  set no match(frm): 37
+--------------------good frame count: 0
+  ------Sequencer wake up at 8.4200s------
+  ------Sequence count: 842-------
+  ------Sequencer wake up at 8.4300s------
+  ------Sequence count: 843-------
+  ------Sequencer wake up at 8.4400s------
+  ------Sequence count: 844-------
+  ------Sequencer wake up at 8.4500s------
+  ------Sequence count: 845-------
+capturing: 149
+Buffer index: 9
+capture  complete : 149
+send  start : 149
+payload index: 49
+send  complete : 149
+  ------Sequencer wake up at 8.4603s------
+  ------Sequence count: 846-------
+--------------------p diff : 0.06510416666666666
+--------------------set no: 37 -----  set no match(frm): 37
+--------------------good frame count: 0
+---------------good payload foun
+  ------Sequencer wake up at 8.4700s------
+  ------Sequence count: 847-------
+Image save complete 37
+Image save start 38
+  ------Sequencer wake up at 8.4800s------
+  ------Sequence count: 848-------
+  ------Sequencer wake up at 8.4900s------
+  ------Sequence count: 849-------
+  ------Sequencer wake up at 8.5000s------
+  ------Sequence count: 850-------
+capturing: 150
+Buffer index: 10
+capture  complete : 150
+send  start : 150
+payload index: 0
+send  complete : 150
+  ------Sequencer wake up at 8.5100s------
+  ------Sequence count: 851-------
+  ------Sequencer wake up at 8.5200s------
+  ------Sequence count: 852-------
+  ------Sequencer wake up at 8.5300s------
+  ------Sequence count: 853-------
+  ------Sequencer wake up at 8.5400s------
+  ------Sequence count: 854-------
+  ------Sequencer wake up at 8.5500s------
+  ------Sequence count: 855-------
+capturing: 151
+Buffer index: 11
+capture  complete : 151
+send  start : 151
+payload index: 1
+send  complete : 151
+  ------Sequencer wake up at 8.5600s------
+  ------Sequence count: 856-------
+--------------------p diff : 0.11848958333333334
+--------------------set no: 37 -----  set no match(frm): 38
+--------------------good frame count: 0
+  ------Sequencer wake up at 8.5700s------
+  ------Sequence count: 857-------
+  ------Sequencer wake up at 8.5800s------
+  ------Sequence count: 858-------
+  ------Sequencer wake up at 8.5900s------
+  ------Sequence count: 859-------
+  ------Sequencer wake up at 8.6000s------
+  ------Sequence count: 860-------
+capturing: 152
+Buffer index: 12
+capture  complete : 152
+send  start : 152
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 2
+send  complete : 152
+  ------Sequencer wake up at 8.6100s------
+  ------Sequence count: 861-------
+--------------------p diff : 0.20117187500000000
+--------------------set no: 38 -----  set no match(frm): 38
+--------------------good frame count: 0
+  ------Sequencer wake up at 8.6200s------
+  ------Sequence count: 862-------
+  ------Sequencer wake up at 8.6300s------
+  ------Sequence count: 863-------
+  ------Sequencer wake up at 8.6400s------
+  ------Sequence count: 864-------
+  ------Sequencer wake up at 8.6500s------
+  ------Sequence count: 865-------
+capturing: 153
+Buffer index: 13
+capture  complete : 153
+send  start : 153
+payload index: 3
+send  complete : 153
+  ------Sequencer wake up at 8.6600s------
+  ------Sequence count: 866-------
+--------------------p diff : 0.12792968750000000
+--------------------set no: 38 -----  set no match(frm): 38
+--------------------good frame count: 0
+---------------good payload foun
+  ------Sequencer wake up at 8.6700s------
+  ------Sequence count: 867-------
+Image save complete 38
+Image save start 39
+  ------Sequencer wake up at 8.6800s------
+  ------Sequence count: 868-------
+  ------Sequencer wake up at 8.6900s------
+  ------Sequence count: 869-------
+  ------Sequencer wake up at 8.7000s------
+  ------Sequence count: 870-------
+capturing: 154
+Buffer index: 14
+capture  complete : 154
+send  start : 154
+payload index: 4
+send  complete : 154
+  ------Sequencer wake up at 8.7100s------
+  ------Sequence count: 871-------
+  ------Sequencer wake up at 8.7200s------
+  ------Sequence count: 872-------
+  ------Sequencer wake up at 8.7300s------
+  ------Sequence count: 873-------
+  ------Sequencer wake up at 8.7400s------
+  ------Sequence count: 874-------
+  ------Sequencer wake up at 8.7500s------
+  ------Sequence count: 875-------
+capturing: 155
+Buffer index: 15
+capture  complete : 155
+send  start : 155
+payload index: 5
+send  complete : 155
+  ------Sequencer wake up at 8.7600s------
+  ------Sequence count: 876-------
+--------------------p diff : 0.12207031250000000
+--------------------set no: 38 -----  set no match(frm): 39
+--------------------good frame count: 0
+  ------Sequencer wake up at 8.7700s------
+  ------Sequence count: 877-------
+  ------Sequencer wake up at 8.7800s------
+  ------Sequence count: 878-------
+  ------Sequencer wake up at 8.7900s------
+  ------Sequence count: 879-------
+  ------Sequencer wake up at 8.8000s------
+  ------Sequence count: 880-------
+capturing: 156
+Buffer index: 0
+capture  complete : 156
+send  start : 156
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 6
+send  complete : 156
+  ------Sequencer wake up at 8.8100s------
+  ------Sequence count: 881-------
+--------------------p diff : 0.27180989583333331
+--------------------set no: 39 -----  set no match(frm): 39
+--------------------good frame count: 0
+  ------Sequencer wake up at 8.8200s------
+  ------Sequence count: 882-------
+  ------Sequencer wake up at 8.8300s------
+  ------Sequence count: 883-------
+  ------Sequencer wake up at 8.8400s------
+  ------Sequence count: 884-------
+  ------Sequencer wake up at 8.8500s------
+  ------Sequence count: 885-------
+capturing: 157
+Buffer index: 1
+capture  complete : 157
+send  start : 157
+payload index: 7
+send  complete : 157
+  ------Sequencer wake up at 8.8600s------
+  ------Sequence count: 886-------
+--------------------p diff : 0.04427083333333333
+--------------------set no: 39 -----  set no match(frm): 39
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 39
+Image save start 40
+  ------Sequencer wake up at 8.8700s------
+  ------Sequence count: 887-------
+  ------Sequencer wake up at 8.8800s------
+  ------Sequence count: 888-------
+  ------Sequencer wake up at 8.8900s------
+  ------Sequence count: 889-------
+  ------Sequencer wake up at 8.9000s------
+  ------Sequence count: 890-------
+capturing: 158
+Buffer index: 2
+capture  complete : 158
+send  start : 158
+payload index: 8
+send  complete : 158
+  ------Sequencer wake up at 8.9100s------
+  ------Sequence count: 891-------
+  ------Sequencer wake up at 8.9200s------
+  ------Sequence count: 892-------
+  ------Sequencer wake up at 8.9300s------
+  ------Sequence count: 893-------
+  ------Sequencer wake up at 8.9400s------
+  ------Sequence count: 894-------
+  ------Sequencer wake up at 8.9500s------
+  ------Sequence count: 895-------
+capturing: 159
+Buffer index: 3
+capture  complete : 159
+send  start : 159
+payload index: 9
+send  complete : 159
+  ------Sequencer wake up at 8.9600s------
+  ------Sequence count: 896-------
+--------------------p diff : 0.12207031250000000
+--------------------set no: 39 -----  set no match(frm): 40
+--------------------good frame count: 0
+  ------Sequencer wake up at 8.9700s------
+  ------Sequence count: 897-------
+  ------Sequencer wake up at 8.9800s------
+  ------Sequence count: 898-------
+  ------Sequencer wake up at 8.9900s------
+  ------Sequence count: 899-------
+  ------Sequencer wake up at 9.0000s------
+  ------Sequence count: 900-------
+capturing: 160
+Buffer index: 4
+capture  complete : 160
+send  start : 160
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 10
+send  complete : 160
+  ------Sequencer wake up at 9.0100s------
+  ------Sequence count: 901-------
+--------------------p diff : 0.19042968750000000
+--------------------set no: 40 -----  set no match(frm): 40
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 40
+Image save start 41
+  ------Sequencer wake up at 9.0200s------
+  ------Sequence count: 902-------
+  ------Sequencer wake up at 9.0300s------
+  ------Sequence count: 903-------
+  ------Sequencer wake up at 9.0400s------
+  ------Sequence count: 904-------
+  ------Sequencer wake up at 9.0500s------
+  ------Sequence count: 905-------
+capturing: 161
+Buffer index: 5
+capture  complete : 161
+send  start : 161
+payload index: 11
+send  complete : 161
+  ------Sequencer wake up at 9.0600s------
+  ------Sequence count: 906-------
+  ------Sequencer wake up at 9.0700s------
+  ------Sequence count: 907-------
+  ------Sequencer wake up at 9.0800s------
+  ------Sequence count: 908-------
+  ------Sequencer wake up at 9.0900s------
+  ------Sequence count: 909-------
+  ------Sequencer wake up at 9.1000s------
+  ------Sequence count: 910-------
+capturing: 162
+Buffer index: 6
+capture  complete : 162
+send  start : 162
+payload index: 12
+send  complete : 162
+  ------Sequencer wake up at 9.1100s------
+  ------Sequence count: 911-------
+--------------------p diff : 0.25618489583333337
+--------------------set no: 40 -----  set no match(frm): 41
+--------------------good frame count: 0
+  ------Sequencer wake up at 9.1200s------
+  ------Sequence count: 912-------
+  ------Sequencer wake up at 9.1300s------
+  ------Sequence count: 913-------
+  ------Sequencer wake up at 9.1400s------
+  ------Sequence count: 914-------
+  ------Sequencer wake up at 9.1500s------
+  ------Sequence count: 915-------
+capturing: 163
+Buffer index: 7
+capture  complete : 163
+send  start : 163
+payload index: 13
+send  complete : 163
+  ------Sequencer wake up at 9.1600s------
+  ------Sequence count: 916-------
+--------------------p diff : 0.12076822916666666
+--------------------set no: 40 -----  set no match(frm): 41
+--------------------good frame count: 0
+  ------Sequencer wake up at 9.1700s------
+  ------Sequence count: 917-------
+  ------Sequencer wake up at 9.1800s------
+  ------Sequence count: 918-------
+  ------Sequencer wake up at 9.1900s------
+  ------Sequence count: 919-------
+  ------Sequencer wake up at 9.2000s------
+  ------Sequence count: 920-------
+capturing: 164
+Buffer index: 8
+capture  complete : 164
+send  start : 164
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 14
+send  complete : 164
+  ------Sequencer wake up at 9.2100s------
+  ------Sequence count: 921-------
+--------------------p diff : 0.25325520833333331
+--------------------set no: 41 -----  set no match(frm): 41
+--------------------good frame count: 0
+  ------Sequencer wake up at 9.2200s------
+  ------Sequence count: 922-------
+  ------Sequencer wake up at 9.2300s------
+  ------Sequence count: 923-------
+  ------Sequencer wake up at 9.2400s------
+  ------Sequence count: 924-------
+  ------Sequencer wake up at 9.2500s------
+  ------Sequence count: 925-------
+capturing: 165
+Buffer index: 9
+capture  complete : 165
+send  start : 165
+payload index: 15
+send  complete : 165
+  ------Sequencer wake up at 9.2600s------
+  ------Sequence count: 926-------
+--------------------p diff : 0.05729166666666666
+--------------------set no: 41 -----  set no match(frm): 41
+--------------------good frame count: 0
+---------------good payload foun
+  ------Sequencer wake up at 9.2700s------
+  ------Sequence count: 927-------
+Image save complete 41
+Image save start 42
+  ------Sequencer wake up at 9.2800s------
+  ------Sequence count: 928-------
+  ------Sequencer wake up at 9.2900s------
+  ------Sequence count: 929-------
+  ------Sequencer wake up at 9.3000s------
+  ------Sequence count: 930-------
+capturing: 166
+Buffer index: 10
+capture  complete : 166
+send  start : 166
+payload index: 16
+send  complete : 166
+  ------Sequencer wake up at 9.3100s------
+  ------Sequence count: 931-------
+  ------Sequencer wake up at 9.3200s------
+  ------Sequence count: 932-------
+  ------Sequencer wake up at 9.3300s------
+  ------Sequence count: 933-------
+  ------Sequencer wake up at 9.3400s------
+  ------Sequence count: 934-------
+  ------Sequencer wake up at 9.3500s------
+  ------Sequence count: 935-------
+capturing: 167
+Buffer index: 11
+capture  complete : 167
+send  start : 167
+payload index: 17
+send  complete : 167
+  ------Sequencer wake up at 9.3600s------
+  ------Sequence count: 936-------
+--------------------p diff : 0.05468750000000001
+--------------------set no: 41 -----  set no match(frm): 42
+--------------------good frame count: 0
+  ------Sequencer wake up at 9.3700s------
+  ------Sequence count: 937-------
+  ------Sequencer wake up at 9.3800s------
+  ------Sequence count: 938-------
+  ------Sequencer wake up at 9.3900s------
+  ------Sequence count: 939-------
+  ------Sequencer wake up at 9.4000s------
+  ------Sequence count: 940-------
+capturing: 168
+Buffer index: 12
+capture  complete : 168
+send  start : 168
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 18
+send  complete : 168
+  ------Sequencer wake up at 9.4100s------
+  ------Sequence count: 941-------
+--------------------p diff : 0.24934895833333331
+--------------------set no: 42 -----  set no match(frm): 42
+--------------------good frame count: 0
+  ------Sequencer wake up at 9.4200s------
+  ------Sequence count: 942-------
+  ------Sequencer wake up at 9.4300s------
+  ------Sequence count: 943-------
+  ------Sequencer wake up at 9.4400s------
+  ------Sequence count: 944-------
+  ------Sequencer wake up at 9.4500s------
+  ------Sequence count: 945-------
+capturing: 169
+Buffer index: 13
+capture  complete : 169
+send  start : 169
+payload index: 19
+send  complete : 169
+  ------Sequencer wake up at 9.4601s------
+  ------Sequence count: 946-------
+--------------------p diff : 0.12076822916666666
+--------------------set no: 42 -----  set no match(frm): 42
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 42
+Image save start 43
+  ------Sequencer wake up at 9.4700s------
+  ------Sequence count: 947-------
+  ------Sequencer wake up at 9.4800s------
+  ------Sequence count: 948-------
+  ------Sequencer wake up at 9.4900s------
+  ------Sequence count: 949-------
+  ------Sequencer wake up at 9.5000s------
+  ------Sequence count: 950-------
+capturing: 170
+Buffer index: 14
+capture  complete : 170
+send  start : 170
+payload index: 20
+send  complete : 170
+  ------Sequencer wake up at 9.5100s------
+  ------Sequence count: 951-------
+  ------Sequencer wake up at 9.5200s------
+  ------Sequence count: 952-------
+  ------Sequencer wake up at 9.5300s------
+  ------Sequence count: 953-------
+  ------Sequencer wake up at 9.5400s------
+  ------Sequence count: 954-------
+  ------Sequencer wake up at 9.5500s------
+  ------Sequence count: 955-------
+capturing: 171
+Buffer index: 15
+capture  complete : 171
+send  start : 171
+payload index: 21
+send  complete : 171
+  ------Sequencer wake up at 9.5600s------
+  ------Sequence count: 956-------
+--------------------p diff : 0.11751302083333334
+--------------------set no: 42 -----  set no match(frm): 43
+--------------------good frame count: 0
+  ------Sequencer wake up at 9.5700s------
+  ------Sequence count: 957-------
+  ------Sequencer wake up at 9.5800s------
+  ------Sequence count: 958-------
+  ------Sequencer wake up at 9.5900s------
+  ------Sequence count: 959-------
+  ------Sequencer wake up at 9.6000s------
+  ------Sequence count: 960-------
+capturing: 172
+Buffer index: 0
+capture  complete : 172
+send  start : 172
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 22
+send  complete : 172
+  ------Sequencer wake up at 9.6100s------
+  ------Sequence count: 961-------
+--------------------p diff : 0.19856770833333331
+--------------------set no: 43 -----  set no match(frm): 43
+--------------------good frame count: 0
+---------------good payload foun
+  ------Sequencer wake up at 9.6200s------
+  ------Sequence count: 962-------
+Image save complete 43
+Image save start 44
+  ------Sequencer wake up at 9.6300s------
+  ------Sequence count: 963-------
+  ------Sequencer wake up at 9.6400s------
+  ------Sequence count: 964-------
+  ------Sequencer wake up at 9.6500s------
+  ------Sequence count: 965-------
+capturing: 173
+Buffer index: 1
+capture  complete : 173
+send  start : 173
+payload index: 23
+send  complete : 173
+  ------Sequencer wake up at 9.6600s------
+  ------Sequence count: 966-------
+  ------Sequencer wake up at 9.6700s------
+  ------Sequence count: 967-------
+  ------Sequencer wake up at 9.6800s------
+  ------Sequence count: 968-------
+  ------Sequencer wake up at 9.6900s------
+  ------Sequence count: 969-------
+  ------Sequencer wake up at 9.7000s------
+  ------Sequence count: 970-------
+capturing: 174
+Buffer index: 2
+capture  complete : 174
+send  start : 174
+payload index: 24
+send  complete : 174
+  ------Sequencer wake up at 9.7100s------
+  ------Sequence count: 971-------
+--------------------p diff : 0.61295572916666663
+--------------------set no: 43 -----  set no match(frm): 44
+--------------------good frame count: 0
+  ------Sequencer wake up at 9.7200s------
+  ------Sequence count: 972-------
+  ------Sequencer wake up at 9.7300s------
+  ------Sequence count: 973-------
+  ------Sequencer wake up at 9.7400s------
+  ------Sequence count: 974-------
+  ------Sequencer wake up at 9.7500s------
+  ------Sequence count: 975-------
+capturing: 175
+Buffer index: 3
+capture  complete : 175
+send  start : 175
+payload index: 25
+send  complete : 175
+  ------Sequencer wake up at 9.7600s------
+  ------Sequence count: 976-------
+--------------------p diff : 0.10904947916666667
+--------------------set no: 43 -----  set no match(frm): 44
+--------------------good frame count: 0
+  ------Sequencer wake up at 9.7700s------
+  ------Sequence count: 977-------
+  ------Sequencer wake up at 9.7800s------
+  ------Sequence count: 978-------
+  ------Sequencer wake up at 9.7900s------
+  ------Sequence count: 979-------
+  ------Sequencer wake up at 9.8000s------
+  ------Sequence count: 980-------
+capturing: 176
+Buffer index: 4
+capture  complete : 176
+send  start : 176
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 26
+send  complete : 176
+  ------Sequencer wake up at 9.8100s------
+  ------Sequence count: 981-------
+--------------------p diff : 0.25585937500000000
+--------------------set no: 44 -----  set no match(frm): 44
+--------------------good frame count: 0
+  ------Sequencer wake up at 9.8200s------
+  ------Sequence count: 982-------
+  ------Sequencer wake up at 9.8300s------
+  ------Sequence count: 983-------
+  ------Sequencer wake up at 9.8400s------
+  ------Sequence count: 984-------
+  ------Sequencer wake up at 9.8500s------
+  ------Sequence count: 985-------
+capturing: 177
+Buffer index: 5
+capture  complete : 177
+send  start : 177
+payload index: 27
+send  complete : 177
+  ------Sequencer wake up at 9.8600s------
+  ------Sequence count: 986-------
+--------------------p diff : 0.12239583333333334
+--------------------set no: 44 -----  set no match(frm): 44
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 44
+Image save start 45
+  ------Sequencer wake up at 9.8700s------
+  ------Sequence count: 987-------
+  ------Sequencer wake up at 9.8800s------
+  ------Sequence count: 988-------
+  ------Sequencer wake up at 9.8900s------
+  ------Sequence count: 989-------
+  ------Sequencer wake up at 9.9000s------
+  ------Sequence count: 990-------
+capturing: 178
+Buffer index: 6
+capture  complete : 178
+send  start : 178
+payload index: 28
+send  complete : 178
+  ------Sequencer wake up at 9.9100s------
+  ------Sequence count: 991-------
+  ------Sequencer wake up at 9.9200s------
+  ------Sequence count: 992-------
+  ------Sequencer wake up at 9.9300s------
+  ------Sequence count: 993-------
+  ------Sequencer wake up at 9.9400s------
+  ------Sequence count: 994-------
+  ------Sequencer wake up at 9.9500s------
+  ------Sequence count: 995-------
+capturing: 179
+Buffer index: 7
+capture  complete : 179
+send  start : 179
+payload index: 29
+send  complete : 179
+  ------Sequencer wake up at 9.9600s------
+  ------Sequence count: 996-------
+--------------------p diff : 0.11848958333333334
+--------------------set no: 44 -----  set no match(frm): 45
+--------------------good frame count: 0
+  ------Sequencer wake up at 9.9700s------
+  ------Sequence count: 997-------
+  ------Sequencer wake up at 9.9800s------
+  ------Sequence count: 998-------
+  ------Sequencer wake up at 9.9900s------
+  ------Sequence count: 999-------
+  ------Sequencer wake up at 10.0001s------
+  ------Sequence count: 1000-------
+capturing: 180
+Buffer index: 8
+capture  complete : 180
+send  start : 180
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 30
+send  complete : 180
+  ------Sequencer wake up at 10.0100s------
+  ------Sequence count: 1001-------
+--------------------p diff : 0.19010416666666669
+--------------------set no: 45 -----  set no match(frm): 45
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 45
+Image save start 46
+  ------Sequencer wake up at 10.0200s------
+  ------Sequence count: 1002-------
+  ------Sequencer wake up at 10.0300s------
+  ------Sequence count: 1003-------
+  ------Sequencer wake up at 10.0400s------
+  ------Sequence count: 1004-------
+  ------Sequencer wake up at 10.0500s------
+  ------Sequence count: 1005-------
+capturing: 181
+Buffer index: 9
+capture  complete : 181
+send  start : 181
+payload index: 31
+send  complete : 181
+  ------Sequencer wake up at 10.0600s------
+  ------Sequence count: 1006-------
+  ------Sequencer wake up at 10.0700s------
+  ------Sequence count: 1007-------
+  ------Sequencer wake up at 10.0800s------
+  ------Sequence count: 1008-------
+  ------Sequencer wake up at 10.0900s------
+  ------Sequence count: 1009-------
+  ------Sequencer wake up at 10.1000s------
+  ------Sequence count: 1010-------
+capturing: 182
+Buffer index: 10
+capture  complete : 182
+send  start : 182
+payload index: 32
+send  complete : 182
+  ------Sequencer wake up at 10.1100s------
+  ------Sequence count: 1011-------
+--------------------p diff : 0.21484375000000003
+--------------------set no: 45 -----  set no match(frm): 46
+--------------------good frame count: 0
+  ------Sequencer wake up at 10.1200s------
+  ------Sequence count: 1012-------
+  ------Sequencer wake up at 10.1300s------
+  ------Sequence count: 1013-------
+  ------Sequencer wake up at 10.1400s------
+  ------Sequence count: 1014-------
+  ------Sequencer wake up at 10.1500s------
+  ------Sequence count: 1015-------
+capturing: 183
+Buffer index: 11
+capture  complete : 183
+send  start : 183
+payload index: 33
+send  complete : 183
+  ------Sequencer wake up at 10.1600s------
+  ------Sequence count: 1016-------
+--------------------p diff : 0.10384114583333333
+--------------------set no: 45 -----  set no match(frm): 46
+--------------------good frame count: 0
+  ------Sequencer wake up at 10.1700s------
+  ------Sequence count: 1017-------
+  ------Sequencer wake up at 10.1800s------
+  ------Sequence count: 1018-------
+  ------Sequencer wake up at 10.1900s------
+  ------Sequence count: 1019-------
+  ------Sequencer wake up at 10.2000s------
+  ------Sequence count: 1020-------
+capturing: 184
+Buffer index: 12
+capture  complete : 184
+send  start : 184
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 34
+send  complete : 184
+  ------Sequencer wake up at 10.2101s------
+  ------Sequence count: 1021-------
+--------------------p diff : 0.24479166666666669
+--------------------set no: 46 -----  set no match(frm): 46
+--------------------good frame count: 0
+  ------Sequencer wake up at 10.2200s------
+  ------Sequence count: 1022-------
+  ------Sequencer wake up at 10.2300s------
+  ------Sequence count: 1023-------
+  ------Sequencer wake up at 10.2400s------
+  ------Sequence count: 1024-------
+  ------Sequencer wake up at 10.2500s------
+  ------Sequence count: 1025-------
+capturing: 185
+Buffer index: 13
+capture  complete : 185
+send  start : 185
+payload index: 35
+send  complete : 185
+  ------Sequencer wake up at 10.2600s------
+  ------Sequence count: 1026-------
+--------------------p diff : 0.09505208333333334
+--------------------set no: 46 -----  set no match(frm): 46
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 46
+Image save start 47
+  ------Sequencer wake up at 10.2700s------
+  ------Sequence count: 1027-------
+  ------Sequencer wake up at 10.2800s------
+  ------Sequence count: 1028-------
+  ------Sequencer wake up at 10.2900s------
+  ------Sequence count: 1029-------
+  ------Sequencer wake up at 10.3000s------
+  ------Sequence count: 1030-------
+capturing: 186
+Buffer index: 14
+capture  complete : 186
+send  start : 186
+payload index: 36
+send  complete : 186
+  ------Sequencer wake up at 10.3100s------
+  ------Sequence count: 1031-------
+  ------Sequencer wake up at 10.3200s------
+  ------Sequence count: 1032-------
+  ------Sequencer wake up at 10.3300s------
+  ------Sequence count: 1033-------
+  ------Sequencer wake up at 10.3400s------
+  ------Sequence count: 1034-------
+  ------Sequencer wake up at 10.3500s------
+  ------Sequence count: 1035-------
+capturing: 187
+Buffer index: 15
+capture  complete : 187
+send  start : 187
+payload index: 37
+send  complete : 187
+  ------Sequencer wake up at 10.3600s------
+  ------Sequence count: 1036-------
+--------------------p diff : 0.16438802083333334
+--------------------set no: 46 -----  set no match(frm): 47
+--------------------good frame count: 0
+  ------Sequencer wake up at 10.3700s------
+  ------Sequence count: 1037-------
+  ------Sequencer wake up at 10.3800s------
+  ------Sequence count: 1038-------
+  ------Sequencer wake up at 10.3900s------
+  ------Sequence count: 1039-------
+  ------Sequencer wake up at 10.4000s------
+  ------Sequence count: 1040-------
+capturing: 188
+Buffer index: 0
+capture  complete : 188
+send  start : 188
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 38
+send  complete : 188
+  ------Sequencer wake up at 10.4100s------
+  ------Sequence count: 1041-------
+--------------------p diff : 0.19335937500000000
+--------------------set no: 47 -----  set no match(frm): 47
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 47
+Image save start 48
+  ------Sequencer wake up at 10.4200s------
+  ------Sequence count: 1042-------
+  ------Sequencer wake up at 10.4300s------
+  ------Sequence count: 1043-------
+  ------Sequencer wake up at 10.4400s------
+  ------Sequence count: 1044-------
+  ------Sequencer wake up at 10.4500s------
+  ------Sequence count: 1045-------
+capturing: 189
+Buffer index: 1
+capture  complete : 189
+send  start : 189
+payload index: 39
+send  complete : 189
+  ------Sequencer wake up at 10.4600s------
+  ------Sequence count: 1046-------
+  ------Sequencer wake up at 10.4700s------
+  ------Sequence count: 1047-------
+  ------Sequencer wake up at 10.4800s------
+  ------Sequence count: 1048-------
+  ------Sequencer wake up at 10.4900s------
+  ------Sequence count: 1049-------
+  ------Sequencer wake up at 10.5000s------
+  ------Sequence count: 1050-------
+capturing: 190
+Buffer index: 2
+capture  complete : 190
+send  start : 190
+payload index: 40
+send  complete : 190
+  ------Sequencer wake up at 10.5100s------
+  ------Sequence count: 1051-------
+--------------------p diff : 0.22493489583333331
+--------------------set no: 47 -----  set no match(frm): 48
+--------------------good frame count: 0
+  ------Sequencer wake up at 10.5200s------
+  ------Sequence count: 1052-------
+  ------Sequencer wake up at 10.5300s------
+  ------Sequence count: 1053-------
+  ------Sequencer wake up at 10.5400s------
+  ------Sequence count: 1054-------
+  ------Sequencer wake up at 10.5500s------
+  ------Sequence count: 1055-------
+capturing: 191
+Buffer index: 3
+capture  complete : 191
+send  start : 191
+payload index: 41
+send  complete : 191
+  ------Sequencer wake up at 10.5600s------
+  ------Sequence count: 1056-------
+--------------------p diff : 0.09147135416666667
+--------------------set no: 47 -----  set no match(frm): 48
+--------------------good frame count: 0
+  ------Sequencer wake up at 10.5700s------
+  ------Sequence count: 1057-------
+  ------Sequencer wake up at 10.5800s------
+  ------Sequence count: 1058-------
+  ------Sequencer wake up at 10.5900s------
+  ------Sequence count: 1059-------
+  ------Sequencer wake up at 10.6000s------
+  ------Sequence count: 1060-------
+capturing: 192
+Buffer index: 4
+capture  complete : 192
+send  start : 192
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 42
+send  complete : 192
+  ------Sequencer wake up at 10.6100s------
+  ------Sequence count: 1061-------
+--------------------p diff : 0.10677083333333333
+--------------------set no: 48 -----  set no match(frm): 48
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 48
+Image save start 49
+  ------Sequencer wake up at 10.6200s------
+  ------Sequence count: 1062-------
+  ------Sequencer wake up at 10.6300s------
+  ------Sequence count: 1063-------
+  ------Sequencer wake up at 10.6400s------
+  ------Sequence count: 1064-------
+  ------Sequencer wake up at 10.6500s------
+  ------Sequence count: 1065-------
+capturing: 193
+Buffer index: 5
+capture  complete : 193
+send  start : 193
+payload index: 43
+send  complete : 193
+  ------Sequencer wake up at 10.6600s------
+  ------Sequence count: 1066-------
+  ------Sequencer wake up at 10.6700s------
+  ------Sequence count: 1067-------
+  ------Sequencer wake up at 10.6800s------
+  ------Sequence count: 1068-------
+  ------Sequencer wake up at 10.6900s------
+  ------Sequence count: 1069-------
+  ------Sequencer wake up at 10.7000s------
+  ------Sequence count: 1070-------
+capturing: 194
+Buffer index: 6
+capture  complete : 194
+send  start : 194
+payload index: 44
+send  complete : 194
+  ------Sequencer wake up at 10.7100s------
+  ------Sequence count: 1071-------
+--------------------p diff : 1.22460937500000000
+--------------------set no: 48 -----  set no match(frm): 49
+--------------------good frame count: 0
+  ------Sequencer wake up at 10.7200s------
+  ------Sequence count: 1072-------
+  ------Sequencer wake up at 10.7300s------
+  ------Sequence count: 1073-------
+  ------Sequencer wake up at 10.7400s------
+  ------Sequence count: 1074-------
+  ------Sequencer wake up at 10.7500s------
+  ------Sequence count: 1075-------
+capturing: 195
+Buffer index: 7
+capture  complete : 195
+send  start : 195
+payload index: 45
+send  complete : 195
+  ------Sequencer wake up at 10.7600s------
+  ------Sequence count: 1076-------
+--------------------p diff : 0.35319010416666669
+--------------------set no: 48 -----  set no match(frm): 49
+--------------------good frame count: 0
+  ------Sequencer wake up at 10.7700s------
+  ------Sequence count: 1077-------
+  ------Sequencer wake up at 10.7800s------
+  ------Sequence count: 1078-------
+  ------Sequencer wake up at 10.7900s------
+  ------Sequence count: 1079-------
+  ------Sequencer wake up at 10.8000s------
+  ------Sequence count: 1080-------
+capturing: 196
+Buffer index: 8
+capture  complete : 196
+send  start : 196
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 46
+send  complete : 196
+  ------Sequencer wake up at 10.8100s------
+  ------Sequence count: 1081-------
+  ------Sequencer wake up at 10.8200s------
+  ------Sequence count: 1082-------
+--------------------p diff : 0.28255208333333337
+--------------------set no: 49 -----  set no match(frm): 49
+--------------------good frame count: 0
+  ------Sequencer wake up at 10.8300s------
+  ------Sequence count: 1083-------
+  ------Sequencer wake up at 10.8400s------
+  ------Sequence count: 1084-------
+  ------Sequencer wake up at 10.8500s------
+  ------Sequence count: 1085-------
+capturing: 197
+Buffer index: 9
+capture  complete : 197
+send  start : 197
+payload index: 47
+send  complete : 197
+  ------Sequencer wake up at 10.8600s------
+  ------Sequence count: 1086-------
+--------------------p diff : 0.16080729166666669
+--------------------set no: 49 -----  set no match(frm): 49
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 49
+Image save start 50
+  ------Sequencer wake up at 10.8700s------
+  ------Sequence count: 1087-------
+  ------Sequencer wake up at 10.8800s------
+  ------Sequence count: 1088-------
+  ------Sequencer wake up at 10.8900s------
+  ------Sequence count: 1089-------
+  ------Sequencer wake up at 10.9000s------
+  ------Sequence count: 1090-------
+capturing: 198
+Buffer index: 10
+capture  complete : 198
+send  start : 198
+payload index: 48
+send  complete : 198
+  ------Sequencer wake up at 10.9100s------
+  ------Sequence count: 1091-------
+  ------Sequencer wake up at 10.9200s------
+  ------Sequence count: 1092-------
+  ------Sequencer wake up at 10.9300s------
+  ------Sequence count: 1093-------
+  ------Sequencer wake up at 10.9400s------
+  ------Sequence count: 1094-------
+  ------Sequencer wake up at 10.9500s------
+  ------Sequence count: 1095-------
+capturing: 199
+Buffer index: 11
+capture  complete : 199
+send  start : 199
+payload index: 49
+send  complete : 199
+  ------Sequencer wake up at 10.9600s------
+  ------Sequence count: 1096-------
+--------------------p diff : 0.09765625000000000
+--------------------set no: 49 -----  set no match(frm): 50
+--------------------good frame count: 0
+  ------Sequencer wake up at 10.9700s------
+  ------Sequence count: 1097-------
+  ------Sequencer wake up at 10.9800s------
+  ------Sequence count: 1098-------
+  ------Sequencer wake up at 10.9900s------
+  ------Sequence count: 1099-------
+  ------Sequencer wake up at 11.0000s------
+  ------Sequence count: 1100-------
+capturing: 200
+Buffer index: 12
+capture  complete : 200
+send  start : 200
+---------Flushing mqueue..
+---------mqueue flushed ..
+payload index: 0
+send  complete : 200
+  ------Sequencer wake up at 11.0100s------
+  ------Sequence count: 1101-------
+--------------------p diff : 0.12434895833333334
+--------------------set no: 50 -----  set no match(frm): 50
+--------------------good frame count: 0
+---------------good payload foun
+Image save complete 50
+Image save start 51
+  ------Sequencer wake up at 11.0200s------
+  ------Sequence count: 1102-------
+  ------Sequencer wake up at 11.0300s------
+  ------Sequence count: 1103-------
+  ------Sequencer wake up at 11.0400s------
+  ------Sequence count: 1104-------
+  ------Sequencer wake up at 11.0500s------
+  ------Sequence count: 1105-------
+capturing: 201
+Buffer index: 13
+capture  complete : 201
+send  start : 201
+payload index: 1
+send  complete : 201
+  ------Sequencer wake up at 11.0600s------
+  ------Sequence count: 1106-------
+  ------Sequencer wake up at 11.0700s------
+  ------Sequence count: 1107-------
+  ------Sequencer wake up at 11.0800s------
+  ------Sequence count: 1108-------
+  ------Sequencer wake up at 11.0900s------
+  ------Sequence count: 1109-------
+  ------Sequencer wake up at 11.1000s------
+  ------Sequence count: 1110-------
+capturing: 202
+Buffer index: 14
+capture  complete : 202
+send  start : 202
+payload index: 2
+send  complete : 202
+  ------Sequencer wake
