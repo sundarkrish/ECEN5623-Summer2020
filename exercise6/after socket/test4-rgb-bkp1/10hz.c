@@ -96,7 +96,7 @@ typedef struct
 typedef struct
 {
 	char g_buffer[PIXELS]; // Takes this space after YUV to gray conversion
-	char im_header[500];
+	char im_header[200];
 	int set_no;
 
 } typedef_payload;
@@ -110,7 +110,7 @@ typedef struct
 {
 	char c_buffer[((PIXELS)*3)]; // Takes this space after YUV to RGB conversion
 	char g_buffer[PIXELS]; // Takes this space after YUV to gray conversion
-	char im_header[500];
+	char im_header[200];
 	int set_no;
 
 } typedef_payload;
