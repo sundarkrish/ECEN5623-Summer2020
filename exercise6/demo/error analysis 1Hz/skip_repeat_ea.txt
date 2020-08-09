@@ -1,0 +1,128 @@
+
+
+
+
+Aug  6 19:53:40 sundar-desktop Synchronome4: send  start : 4730
+Aug  6 19:53:40 sundar-desktop Synchronome4: payload index: 30
+Aug  6 19:53:40 sundar-desktop Synchronome4: send  complete : 4730
+Aug  6 19:53:40 sundar-desktop Synchronome4: ------Sequencer wake up at 190.2201s------
+Aug  6 19:53:40 sundar-desktop Synchronome4: ------Sequence count: 19022-------
+Aug  6 19:53:40 sundar-desktop Synchronome4: et_sequencer: 0.000075
+Aug  6 19:53:40 sundar-desktop Synchronome4: --------------------p diff : 0.00162760416666667
+Aug  6 19:53:40 sundar-desktop Synchronome4: --------------------set no: 189 -----  set no match(frm): 189
+Aug  6 19:53:40 sundar-desktop Synchronome4: ---------------good payload foun
+Aug  6 19:53:40 sundar-desktop Synchronome4: Image save complete 189
+Aug  6 19:53:40 sundar-desktop Synchronome4: ------Sequencer wake up at 190.2300s------
+Aug  6 19:53:40 sundar-desktop Synchronome4: ------Sequence count: 19023-------
+Aug  6 19:53:40 sundar-desktop Synchronome4: et_sequencer: 0.000070
+Aug  6 19:53:40 sundar-desktop Synchronome4: ------Sequencer wake up at 190.2400s------
+Aug  6 19:53:40 sundar-desktop Synchronome4: ------Sequence count: 19024-------
+Aug  6 19:53:40 sundar-desktop Synchronome4: et_sequencer: 0.000084
+
+
+
+Aug  6 19:53:41 sundar-desktop Synchronome4: send  start : 4755
+Aug  6 19:53:41 sundar-desktop Synchronome4: payload index: 5
+Aug  6 19:53:41 sundar-desktop Synchronome4: send  complete : 4755
+Aug  6 19:53:41 sundar-desktop Synchronome4: ------Sequencer wake up at 191.2200s------
+Aug  6 19:53:41 sundar-desktop Synchronome4: ------Sequence count: 19122-------
+Aug  6 19:53:41 sundar-desktop Synchronome4: et_sequencer: 0.000072
+Aug  6 19:53:41 sundar-desktop Synchronome4: --------------------p diff : 0.00065104166666667
+Aug  6 19:53:41 sundar-desktop Synchronome4: --------------------set no: 190 -----  set no match(frm): 190
+Aug  6 19:53:41 sundar-desktop Synchronome4: ---------------good payload foun
+Aug  6 19:53:41 sundar-desktop Synchronome4: ------Sequencer wake up at 191.2300s------
+Aug  6 19:53:41 sundar-desktop Synchronome4: ------Sequence count: 19123-------
+Aug  6 19:53:41 sundar-desktop Synchronome4: et_sequencer: 0.000077
+Aug  6 19:53:41 sundar-desktop Synchronome4: Image save complete 190
+Aug  6 19:53:41 sundar-desktop Synchronome4: ------Sequencer wake up at 191.2400s------
+Aug  6 19:53:41 sundar-desktop Synchronome4: ------Sequence count: 19124-------
+
+
+
+Aug  6 19:53:42 sundar-desktop Synchronome4: send  start : 4779
+Aug  6 19:53:42 sundar-desktop Synchronome4: payload index: 29
+Aug  6 19:53:42 sundar-desktop Synchronome4: send  complete : 4779
+Aug  6 19:53:42 sundar-desktop Synchronome4: ------Sequencer wake up at 192.1800s------
+Aug  6 19:53:42 sundar-desktop Synchronome4: ------Sequence count: 19218-------
+Aug  6 19:53:42 sundar-desktop Synchronome4: et_sequencer: 0.000092
+Aug  6 19:53:42 sundar-desktop Synchronome4: --------------------p diff : 0.00032552083333333
+Aug  6 19:53:42 sundar-desktop Synchronome4: --------------------set no: 191 -----  set no match(frm): 191
+Aug  6 19:53:42 sundar-desktop Synchronome4: ---------------good payload foun
+Aug  6 19:53:42 sundar-desktop Synchronome4: ------Sequencer wake up at 192.1900s------
+Aug  6 19:53:42 sundar-desktop Synchronome4: ------Sequence count: 19219-------
+Aug  6 19:53:42 sundar-desktop Synchronome4: et_sequencer: 0.000079
+Aug  6 19:53:42 sundar-desktop Synchronome4: Image save complete 191
+Aug  6 19:53:42 sundar-desktop Synchronome4: ------Sequencer wake up at 192.2000s------
+Aug  6 19:53:42 sundar-desktop Synchronome4: ------Sequence count: 19220-------
+Aug  6 19:53:42 sundar-desktop Synchronome4: et_sequencer: 0.000083
+Aug  6 19:53:42 sundar-desktop Synchronome4: capturing: 4780
+Aug  6 19:53:42 sundar-desktop Synchronome4: Buffer index: 2
+
+
+
+Aug  6 19:54:39 sundar-desktop Synchronome4: ------Sequencer wake up at 249.1801s------
+Aug  6 19:54:39 sundar-desktop Synchronome4: ------Sequence count: 24918-------
+Aug  6 19:54:39 sundar-desktop Synchronome4: et_sequencer: 0.000069
+Aug  6 19:54:39 sundar-desktop Synchronome4: --------------------p diff : 0.00065104166666667
+Aug  6 19:54:39 sundar-desktop Synchronome4: --------------------set no: 248 -----  set no match(frm): 248
+Aug  6 19:54:39 sundar-desktop Synchronome4: ---------------good payload foun
+Aug  6 19:54:39 sundar-desktop Synchronome4: Image save complete 248
+Aug  6 19:54:39 sundar-desktop Synchronome4: ------Sequencer wake up at 249.1900s------
+Aug  6 19:54:39 sundar-desktop Synchronome4: ------Sequence count: 24919-------
+Aug  6 19:54:39 sundar-desktop Synchronome4: et_sequencer: 0.000069
+Aug  6 19:54:39 sundar-desktop Synchronome4: ------Sequencer wake up at 249.2000s------
+Aug  6 19:54:39 sundar-desktop Synchronome4: ------Sequence count: 24920-------
+
+
+
+Aug  6 19:54:40 sundar-desktop Synchronome4: ------Sequencer wake up at 250.1800s------
+Aug  6 19:54:40 sundar-desktop Synchronome4: ------Sequence count: 25018-------
+Aug  6 19:54:40 sundar-desktop Synchronome4: et_sequencer: 0.000069
+Aug  6 19:54:40 sundar-desktop Synchronome4: ------Sequencer wake up at 250.1900s------
+Aug  6 19:54:40 sundar-desktop Synchronome4: ------Sequence count: 25019-------
+Aug  6 19:54:40 sundar-desktop Synchronome4: et_sequencer: 0.000076
+Aug  6 19:54:40 sundar-desktop Synchronome4: --------------------p diff : 0.00065104166666667
+Aug  6 19:54:40 sundar-desktop Synchronome4: --------------------set no: 249 -----  set no match(frm): 249
+Aug  6 19:54:40 sundar-desktop Synchronome4: ---------------good payload foun
+Aug  6 19:54:40 sundar-desktop Synchronome4: Image save complete 249
+Aug  6 19:54:40 sundar-desktop Synchronome4: ------Sequencer wake up at 250.2000s------
+Aug  6 19:54:40 sundar-desktop Synchronome4: ------Sequence count: 25020-------
+Aug  6 19:54:40 sundar-desktop Synchronome4: et_sequencer: 0.000074
+Aug  6 19:54:40 sundar-desktop Synchronome4: capturing: 6230
+Aug  6 19:54:40 sundar-desktop Synchronome4: Buffer index: 0
+Aug  6 19:54:40 sundar-desktop Synchronome4: ------Sequencer wake up at 250.2100s------
+Aug  6 19:54:40 sundar-desktop Synchronome4: ------Sequence count: 25021-------
+Aug  6 19:54:40 sundar-desktop Synchronome4: et_sequencer: 0.000065
+
+
+
+Aug  6 19:54:41 sundar-desktop Synchronome4: payload index: 4
+Aug  6 19:54:41 sundar-desktop Synchronome4: send  complete : 6254
+Aug  6 19:54:41 sundar-desktop Synchronome4: ------Sequencer wake up at 251.1800s------
+Aug  6 19:54:41 sundar-desktop Synchronome4: ------Sequence count: 25118-------
+Aug  6 19:54:41 sundar-desktop Synchronome4: et_sequencer: 0.000070
+Aug  6 19:54:41 sundar-desktop Synchronome4: --------------------p diff : 0.00097656250000000
+Aug  6 19:54:41 sundar-desktop Synchronome4: --------------------set no: 250 -----  set no match(frm): 250
+Aug  6 19:54:41 sundar-desktop Synchronome4: ---------------good payload foun
+Aug  6 19:54:41 sundar-desktop Synchronome4: Image save complete 250
+Aug  6 19:54:41 sundar-desktop Synchronome4: ------Sequencer wake up at 251.1900s------
+Aug  6 19:54:41 sundar-desktop Synchronome4: ------Sequence count: 25119-------
+Aug  6 19:54:41 sundar-desktop Synchronome4: et_sequencer: 0.000071
+Aug  6 19:54:41 sundar-desktop Synchronome4: ------Sequencer wake up at 251.2000s------
+Aug  6 19:54:41 sundar-desktop Synchronome4: ------Sequence count: 25120-------
+Aug  6 19:54:41 sundar-desktop Synchronome4: et_sequencer: 0.000084
+Aug  6 19:54:41 sundar-desktop Synchronome4: capturing: 6255
+
+
+
+
+
+
+
+
+
+
+
+
+
+
